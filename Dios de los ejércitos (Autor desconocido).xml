@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:23">
+  <properties>
+    <titles>
+      <title>Dios de los ejércitos</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios de los ejércitos, poderoso en batalla <br/>¿Quien es como tú Señor? <br/>El gran Yo Soy </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Grande y temible rey <br/>tu dominio no se acabará <br/>con tu brazo de poder <br/>gobernarás </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Eres el gran yo Soy, eres mi protector <br/>Eres mi fuerza, mi escudo y mi salvación <br/>Y yo no temeré, en Ti yo confiaré <br/>Y me levantaré con tu fuerza y poder... </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Eres el todopoderoso, temible en batalla Y tu justicia es <br/>para siempre por todos los siglos </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:32">
+  <properties>
+    <titles>
+      <title>Generación que danza/ yo soy libre</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TU GRACIA NOS HACE DANZAR <br/>CON TODAS LAS FUERZAS CELEBRAR<br/>DANZAREMOS LIBRES POR TU AMOR</lines>
+    </verse>
+    <verse name="v2">
+      <lines>TU GLORIA NOS HACE CANTAR<br/>TU SANTO NOMBRE LEVANTAR<br/>CANTAREMOS GLORIA A TI SEÑOR</lines>
+    </verse>
+    <verse name="p1">
+      <lines>NUESTRO CORAZON COMIENZA A DESBORDAR<br/>AL CONOCERTE A TI<br/>NO PODEMOS CALLAR</lines>
+    </verse>
+    <verse name="c1">
+      <lines>SEREMOS LA GENERACION QUE DANZA <br/>POR CAUSA DE TU MISERICORDIA OH DIOS<br/>TU MISERICORDIA OH DIOS</lines>
+    </verse>
+    <verse name="c2">
+      <lines>SEREMOS LA GENERACION QUE CANTA<br/>Y QUE CELEBRA<br/>DANDOTE GLORIA OH DIOS <br/>DANDOTE LA GLORIA OH DIOS</lines>
+    </verse>
+    <verse name="b1">
+      <lines>VEN Y TOMA TU LUGAR</lines>
+    </verse>
+  </lyrics>
+</song>

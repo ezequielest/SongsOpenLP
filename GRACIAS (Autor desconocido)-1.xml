@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:32">
+  <properties>
+    <titles>
+      <title>GRACIAS</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ME HAS TOMADO EN TUS BRAZOS Y ME HAS DADO SALVACIÓN <br/>DE TU AMOR HAS DERRAMADO EN MI CORAZÓN</lines>
+    </verse>
+    <verse name="v2">
+      <lines>NO SABRÉ AGRADECDERTE LO QUE HAS HECHO POR MÍ <br/>SÓLO PUEDO DARTE AHORA MI CORAZÓN</lines>
+    </verse>
+    <verse name="v3">
+      <lines>GRACIAS GRACIAS SEÑOR, <br/>GRACIAS MI SEÑOR JESÚS</lines>
+    </verse>
+    <verse name="e1">
+      <lines>ENTREGASTE TODO ALLÍ<br/>VIDA ETERNA DERRRAMASTE AL MORIR</lines>
+    </verse>
+    <verse name="p1">
+      <lines>ANTE EL TRONO CELESTIAL<br/>PUEDO ENTRAR CONFIADAMENTE <br/>ANTE TI</lines>
+    </verse>
+  </lyrics>
+</song>

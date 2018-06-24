@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:59">
+  <properties>
+    <titles>
+      <title>ven y toma tu lugar</title>
+    </titles>
+    <authors>
+      <author>Marcos Brunet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te preparamos un lugar <br/>para que vengas a reinar <br/>Te preparamos un lugar<br/>para que puedas disfrutar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se apagan las luces<br/>que están sobre el hombre <br/>solo Tu mereces brillar<br/>No hay nadie mas <br/>importante que Jesús </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ven y toma Tu lugar <br/>Ven y toma Tu lugar <br/>Señor Jesús<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Porque Tu eres bueno Señor <br/>y Tu Misericordia es sin fin <br/>Porque Tu eres Rey <br/>por siempre</lines>
+    </verse>
+    <verse name="b2">
+      <lines>No dejaremos de Cantar <br/>No dejaremos de Adorar <br/>Hasta que tomes Tu lugar<br/>Señor Jesús</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T21:24:59">
+  <properties>
+    <titles>
+      <title>Ven Espiritu Santo</title>
+      <title>ven</title>
+    </titles>
+    <authors>
+      <author>Barak</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ESTOY AQUÍ, DESESPERADO POR TI <br/>CON UN CORAZÓN SEDIENTO, QUE ESPERA BEBER DE TI </lines>
+    </verse>
+    <verse name="v2">
+      <lines>CUANDO TU GLORIA DESCIENDE A UN LUGAR <br/>TODA LA TIERRA TIENE QUE ADORAR </lines>
+    </verse>
+    <verse name="c1">
+      <lines>RESUCITAN LOS MUERTOS SE SANAN ENFERMOS <br/>POR TU PODER. </lines>
+    </verse>
+    <verse name="c2">
+      <lines>QUEREMOS DE TI LLÉNANOS DE TI <br/>ESPÍRITU SANTO ENVUÉLVENOS EN TI <br/>DERRAMA TU GLORIA, ESPERAMOS POR TI </lines>
+    </verse>
+    <verse name="b1">
+      <lines>VEN, VEN, VEN ESPÍRITU SANTO <br/>VEN, VEN, VEN ESPÍRITU SANTO <br/> Y LLENA ESTE LUGAR </lines>
+    </verse>
+  </lyrics>
+</song>

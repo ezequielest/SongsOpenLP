@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:28">
+  <properties>
+    <titles>
+      <title>En tu luz</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tan consumidos por tu amor <br/>que hemos perdido <br/>el sentido de <br/>nuestro alrededor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ya nada nos puede deslumbrar <br/>nada en este mundo <br/>se te puede comparar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nadie como tu <br/>nadie como tu <br/>nadie como tu <br/>nadie como tu <br/>Jesus</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>mas que suficiente <br/>nuestro redentor <br/>y Rey Jesus</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>muestra tus caminos <br/>y andaremos en tu luz <br/>a la luz de tu verdad</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>En tu luz vemos la luz</lines>
+    </verse>
+  </lyrics>
+</song>

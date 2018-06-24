@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-01T12:30:30">
+  <properties>
+    <titles>
+      <title>preciosa sangre</title>
+    </titles>
+    <authors>
+      <author type="words">marco barrientos</author>
+      <author type="music">marco barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Preciosa sangre se derramó.<br/> Preciosa sangre fluyó por amor.<br/> </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sobre ti, el dolor.<br/> Tus venas lloraron.<br/> Jesús, Jesús, Jesús.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hay poder en la sangre que fluyó por amor.<br/> Hay poder en la sangre que él derramó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Preciosa sangre que me purificó.<br/> Preciosa sangre que me transformó </lines>
+    </verse>
+    <verse name="b2">
+      <lines>Tu sangre me transformó.<br/> Tu sangre me perdonó. <br/>Tu sangre me limpió.<br/> Tu sangre me sanó. </lines>
+    </verse>
+    <verse name="b3">
+      <lines>Tu sangre me salvó.<br/> Tu sangre me transformó. <br/>Tu sangre me perdonó<br/>. Tu sangre me limpió.<br/> Tu sangre me sanó. <br/>Tu sangre me salvó. </lines>
+    </verse>
+  </lyrics>
+</song>

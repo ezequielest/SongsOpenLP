@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-09-24T12:56:39">
+  <properties>
+    <titles>
+      <title>Soy amante de tu presencia</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Sacrificio Quiero Dar<br/>Y mi Vida dedicar Para Adorarte</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Soy Amante de Tu Presencia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>//Ooh Sacrificio Quiero Dar<br/>Y mi Vida dedicar Para Adorarte//</lines>
+    </verse>
+    <verse name="c2">
+      <lines>///Soy Amante de Tu Presencia///<br/>Y siempre quiero ser</lines>
+    </verse>
+    <verse name="v3">
+      <lines>//Pasion Tenemos por Estar<br/>Solo Tu Nos Llenaras<br/>Al Adorarte/</lines>
+    </verse>
+    <verse name="c3">
+      <lines>///Somos Amantes de Tu presencia///<br/>Y siempre Queremos Ser</lines>
+    </verse>
+  </lyrics>
+</song>

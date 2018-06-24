@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:37">
+  <properties>
+    <titles>
+      <title>La bendición</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te bendiga Dios<br/>Haga resplandecer su rostro sobre ti<br/>Y te de paz</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te bendiga Dios<br/>Muestre sobre ti su misericordia<br/>Te de su amor</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Tu levantar y<br/> tu acostar</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>y el fruto de<br/> tus labios</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>Te bendiga Dios</lines>
+    </verse>
+  </lyrics>
+</song>

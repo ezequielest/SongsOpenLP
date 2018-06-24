@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:12">
+  <properties>
+    <titles>
+      <title>abre los cielos dios</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ven espiritu ven<br/>Has lo que quieras hacer. <br/>Y derrama Oh Dios una nueva unción, <br/>Sobre esta nación.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abre los cielos Dios y que caiga tu lluvia de gloria, <br/>Abre los cielos Dios y que caiga tu lluvia de gloria, <br/>Abre los cielos Dios y que caiga tu lluvia de gloria aquí.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Toma todo el control, <br/>Toma esta nación, <br/>Hace falta tu dirección Oh Señor. <br/>Toma tu posición, <br/>Toma tu creación, <br/>Declaramos que abre los cielos Dios.</lines>
+    </verse>
+    <verse name="v4">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

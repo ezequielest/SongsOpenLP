@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:38">
+  <properties>
+    <titles>
+      <title>Levántate Señor</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Levántate, levántate Señor <br/>Y que tus enemigos huyan delante de ti <br/>Levántate, levántate Señor <br/>Y que tus enemigos huyan delante de ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Más los justos se alegrarán <br/>Cantarán con regocijo <br/>El Señor se ha levantado <br/>A triunfado con poder <br/>Más los justos se alegrarán <br/>Cantarán con regocijo <br/>El Señor se ha levantado <br/>A triunfado con poder</lines>
+    </verse>
+  </lyrics>
+</song>

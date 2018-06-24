@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-08-26T13:08:27">
+  <properties>
+    <titles>
+      <title>LA TIERRA CANTA</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>SE ABREN LOS CIELOS<br/>SE ESCUCHA UN SONIDO CELESTIALD<br/>UNIDO A LAS VOCES<br/>DE TU PUEBLO QUE TE QUIERE ADORAR</lines>
+    </verse>
+    <verse name="v2">
+      <lines>EL ESPIRITU DE DIOS <br/>SE MUEVE LIBRE EN ESTE LUGAR<br/>EL PADRE ALEGRE ESTA<br/>AL VER LA NOVIA UNIDA Y ADORAR</lines>
+    </verse>
+    <verse name="c1">
+      <lines>LA TIERRA CANTA<br/>EL CIELO ADORA<br/>Y TODOS GRITAN<br/>QUE TU ERES SANTO</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:44">
+  <properties>
+    <titles>
+      <title>para siempre</title>
+      <title>no existe</title>
+    </titles>
+    <authors>
+      <author>zelah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No existe un mar que sea tan grande<br/>No existe un cielo que te haga distante<br/>No hay razón que te pueda contener.<br/>Tu amor es mayor que mis errores.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>No hay canciones que te describan,<br/>No hay acciones que puedan compararse,<br/>No hay razón que te pueda contener.<br/>Tu amor es mayor que mis errores...</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Nada pudo detenerte, fuiste victorioso,<br/>vives para siempre,<br/>nombre sobre todo nombre,<br/>sólo Tú eres Santo,<br/>vives para siempre...</lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/><br/>Soy tuyo para siempre...</lines>
+    </verse>
+  </lyrics>
+</song>

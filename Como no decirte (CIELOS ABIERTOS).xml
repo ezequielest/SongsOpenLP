@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-11-26T13:55:31">
+  <properties>
+    <titles>
+      <title>Como no decirte</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1">
+      <lines>Como no decirte que yo te amo, como no decirte que yo te quiero, como no decirte que eres mi vida, que eres mi todo Jesús nazareno.</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>Eres todo para mi/// <br/>Jesús Amado.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Eres todo para mi/// <br/>Jesús Nazareno</lines>
+    </verse>
+  </lyrics>
+</song>

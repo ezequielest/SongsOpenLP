@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T22:55:28">
+  <properties>
+    <titles>
+      <title>Enganchado Especial 2</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hay victoria/// en el nombre de jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines> y no podra el enemigo dañar a nuestras almas //<br/>por que hay victoria si hay victoria hay victoria en el nombre de jesus// </lines>
+    </verse>
+    <verse name="v3">
+      <lines>ven ven ven espiritu divino ven ven ven acércate a mi // <br/>apoderate apoderate apoderate de todo mi ser.          </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Y aqui se siente la presencia de Dios // <br/>siento el fuego del espiritu santo siento gozo</lines>
+    </verse>
+    <verse name="v6">
+      <lines> siento paz siento el amor que Dios me da //<br/>y aqui se siente la presencia de Dios</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:26">
+  <properties>
+    <titles>
+      <title>el señor esta aqui</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1a">
+      <lines>EL SEÑOR ESTA EN ESTE LUGAR.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>PARA ROMPER TODA OBRA DE MALDAD. <br/>PARA SANAR, PARA LIBRAR MI ALMA.</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>EL SEÑOR ESTA AQUI</lines>
+    </verse>
+  </lyrics>
+</song>

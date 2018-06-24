@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:20">
+  <properties>
+    <titles>
+      <title>cuan gloriosa</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuan gloriosa será la mañana<br/>Cuando venga Jesús el Salvador<br/>Las naciones unidas como hermanas<br/>Bienvenida daremos al Señor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No habrá necesidad<br/>De la luz el resplandor<br/>Ni el sol dará su luz,<br/>Ni tampoco su calor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Allí llanto no habrá,<br/>Ni tristeza ni dolor,<br/>Porque entonces Jesus<br/>El rey del cielo<br/>Para siempre será Consolador</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Esperamos la mañana gloriosa<br/>Para dar la bienvenida al Dios de amor<br/>Donde todo será color de rosa<br/>En la santa fragancia del Señor</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/><br/>El cristiano fiel y verdadero<br/>Y también el obrero de valor<br/>Y la iglesia esposa del Cordero<br/>Estarán en los brazos del Señor</lines>
+    </verse>
+  </lyrics>
+</song>

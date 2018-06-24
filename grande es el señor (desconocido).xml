@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:33">
+  <properties>
+    <titles>
+      <title>grande es el señor</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Grande es el Señor, Creador del Universo,<br/> canta y danza al Rey que viene pronto,</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/> de felicidad el corazón nos llena, Grande es el Señor Oh, oh, oh, Hosanna al Altísimo. Oh, oh, oh, Hosanna al Altísimo. Oh, oh, oh, Hosanna al Altísimo. Grande es el Señor.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

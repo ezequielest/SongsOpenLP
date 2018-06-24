@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:35">
+  <properties>
+    <titles>
+      <title>Hossanna en las alturas</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hossana en las alturas<br/>Exaltad a nuestro Rey<br/>Hossana</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Hossana en las alturas<br/>Exaltad a nuestro Rey<br/>Hossana</lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/>Se exaltado, exaltado, Se exaltado</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Cristo hoy se exaltado<br/>exaltado, se exaltado</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Exaltad a nuestro Rey<br/>Hossana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Todo lo haces nuevo <br/>yo te seguire siempre</lines>
+    </verse>
+  </lyrics>
+</song>

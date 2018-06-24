@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:25">
+  <properties>
+    <titles>
+      <title>El poderoso de Israel 1</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Y de noche cantaremos<br/>celebrando su poder<br/>con alegria de corazón<br/>como el que van con la flauta al monte de jehová celebraremos su poder</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y los ojos de los cielos se abriran y ellos veran <br/>los oidos de los sordos oiran<br/>el cojo saltara con el arpa danzara la lengua de los mudos cantara</lines>
+    </verse>
+    <verse name="e1">
+      <lines>El es  poderoso de Israel <br/>el poderoso de Israel <br/>Su voz se oirá nadie lo detendrá <br/>al poderoso de Israel</lines>
+    </verse>
+  </lyrics>
+</song>

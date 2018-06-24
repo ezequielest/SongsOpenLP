@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:45">
+  <properties>
+    <titles>
+      <title>Porque El vive</title>
+    </titles>
+    <authors>
+      <author>Porque el vive</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Porque Él vive<br/>Triunfaré mañana<br/>Porque Él vive<br/>Ya no hay temor,<br/>Porque yo sé<br/>Que el futuro es suyo,<br/>La vida vale más y más, solo por Él.<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Grato es tener a un tierno niño<br/>Tocar su piel gozo nos da,<br/>Pero es mejor la dulce calma<br/>Que Cristo el Rey nos puede dar pues vivo está</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yo sé que un día el río cruzaré<br/>Con el dolor batallaré<br/>Y al ver la vida triunfando invicta<br/>Veré gloriosas luces y veré al Rey.</lines>
+    </verse>
+  </lyrics>
+</song>

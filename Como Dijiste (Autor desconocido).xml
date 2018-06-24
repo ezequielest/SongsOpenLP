@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:18">
+  <properties>
+    <titles>
+      <title>Como Dijiste</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Mueve el estanque en mi ser, úneme a tu rio dame vida <br/>No se que palabras decir <br/>que provoquen que me quieras<br/>más de lo que me amas.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Derrama tu gloria</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Se mi fuerza hoy, Oh Jesús <br/>Encuentra mi escondite, alcánzame si huyo <br/>Oh Señor, inundame con tu amor</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Me amas como padre, como un hermano, como un león feroz como a nadie <br/>Con fuerza me buscas, para abrazarme.<br/>Me envuelves en tu amor.</lines>
+    </verse>
+  </lyrics>
+</song>

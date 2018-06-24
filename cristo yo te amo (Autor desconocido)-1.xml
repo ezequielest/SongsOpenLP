@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:19">
+  <properties>
+    <titles>
+      <title>cristo yo te amo</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>no hay nadie como tu jesús</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>y no sé donde estuviera si yo  a ti no te tuviera</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>si no hubiera conocido al dios que me ama</lines>
+    </verse>
+  </lyrics>
+</song>

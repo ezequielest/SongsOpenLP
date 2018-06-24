@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-08-26T13:21:28">
+  <properties>
+    <titles>
+      <title>EN ALTA VOZ</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ALTA VOZ <br/>EL UNIVERSO ANSIOSO ESTÁ ESPERANDO ESTE MOMENTO <br/>HAY UN ANHELO DE VER SUS HIJOS TRAER SU GLORIA <br/>TRAER SU GLORIA</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>QUEREMOS VER SU GLORIA DAR VIDA A LO MUERTO Y ENSEÑAR<br/>A LA NUBE DE TESTIGOS ES, DIOS QUE HACE MILAGROS //</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/> HOY  VOY A GRITAR DE DECLARAR DIOS ESTÁ VIVO AQUÍ ESTÁ<br/> DE LAS CENIZAS NACE UN CANTO SANTO, SANTO ES EL SEÑOR </lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>MIS MANOS ALZO EN TU PRESENCIA <br/>Y NO ME IMPORTA QUE ME VEAN <br/>EL DIABLO NO TIENE NADA EN MI </lines>
+    </verse>
+  </lyrics>
+</song>

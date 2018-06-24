@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:55">
+  <properties>
+    <titles>
+      <title>temprano yo te buscare</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Temprano yo te buscaré, <br/>de madrugada yo me acercaré a Ti, <br/>mi alma te anhela y tiene sed <br/>para ver tu Gloria y tu Poder.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi socorro has sido Tú, <br/>en la sombra de tus alas yo me gozaré, <br/>mi alma está apegada a Ti,</lines>
+    </verse>
+    <verse name="p1">
+      <lines>oh, tu diestra me ha sostenido. <br/>oh, tu diestra me ha sostenido.</lines>
+    </verse>
+  </lyrics>
+</song>

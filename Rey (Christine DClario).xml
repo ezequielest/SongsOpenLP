@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:49">
+  <properties>
+    <titles>
+      <title>Rey</title>
+      <title>En tu presencia</title>
+    </titles>
+    <authors>
+      <author type="words">Christine DClario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EN TU PRESENCIA DANZAMOS LIBRES<br/>CUBRENOS EN TU LUZ DE AMOR <br/>LLEVANOS MUCHO MÁS PROFUNDO <br/>PUES SOMOS HIJOS DE GRAN YO SOY</lines>
+    </verse>
+    <verse name="v2">
+      <lines>OH DIOS SIEMPRE CON NOSOTROS <br/>SUSURRANDO RESTAURACIÓN <br/>HAS DE NUESTRO SER TU MORADA <br/>TUYOS SOMOS</lines>
+    </verse>
+    <verse name="c1">
+      <lines>TU IGLESIA CLAMA HOY <br/>ABRE LOS CIELOS CON PODER<br/>ENALTECIDO ERES DIOS <br/>ROMPE TINIEBLAS BRILLA EN GLORIA </lines>
+    </verse>
+    <verse name="b1">
+      <lines>TÚ ERES REY POR SIEMPRE REY <br/>SOBRE LA CREACIÓN <br/>TÚ ERES REY </lines>
+    </verse>
+  </lyrics>
+</song>

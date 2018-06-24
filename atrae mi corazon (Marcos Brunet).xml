@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-11-05T15:27:33">
+  <properties>
+    <titles>
+      <title>atrae mi corazon</title>
+      <title>es a ti a quien</title>
+    </titles>
+    <authors>
+      <author>Marcos Brunet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es a ti a quien anhelo<br/>es por ti que yo suspiro<br/>mas a ya del velo<br/>yo voy a decirte que te quiero <br/>Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Atrae mi corazon<br/>atrae mi corazon<br/>atrae mi corazon Jesus<br/>me muero de amor por ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quiero que el mundo sepa<br/>quiero que el mundo vea<br/>que tu eres mi amado Jesus<br/>y yo soy tuyo </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Atrae mi corazon<br/>atrae mi corazon<br/>atrae mi corazon Jesus<br/>me muero de amor por ti<br/>me muero de amor por ti</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Yo en ti y tu en mi Jesus<br/>este es el pacto<br/></lines>
+    </verse>
+  </lyrics>
+</song>

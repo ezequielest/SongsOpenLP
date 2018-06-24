@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:59">
+  <properties>
+    <titles>
+      <title>Vengan todos</title>
+      <title>con la musica</title>
+    </titles>
+    <authors>
+      <author type="words">Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hey, vengan todos <br/>es el tiempo de alabar a Dios//</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Con la música, con nuestra canción, <br/>le alabamos hoy<br/>Con el júbilo de la adoración le alabamos hoy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por su eterno amor y su fidelidad le alabamos hoy,<br/>por su salvación y su gran bondad le alabamos hoy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es el tiempo de alabar a Dios//</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Es el tiempo de alabar a Dios</lines>
+    </verse>
+  </lyrics>
+</song>

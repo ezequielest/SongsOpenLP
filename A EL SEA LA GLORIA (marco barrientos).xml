@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:13">
+  <properties>
+    <titles>
+      <title>A EL SEA LA GLORIA</title>
+      <title>TODO ES DE MI CRISTO</title>
+    </titles>
+    <authors>
+      <author type="words">marco barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TODO ES DE MI CRISTO,<br/>POR ÉL Y PARA ÉL//</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>A ÉL SEA LA GLORIA/ //<br/>POR SIEMPRE AMÉN</lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/>OH, PROFUNDAS RIQUEZAS<br/>DE LA SABIDURÍA DE DIOS;<br/>INSONDABLES SUS JUICIOS<br/>Y SUS CAMINOS SON</lines>
+    </verse>
+  </lyrics>
+</song>

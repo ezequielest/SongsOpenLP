@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:22">
+  <properties>
+    <titles>
+      <title>Digno</title>
+      <title>no tengo nada para ofrecer</title>
+    </titles>
+    <authors>
+      <author type="words">Marcos Brunet</author>
+      <author type="music">Marcos Brunet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No tengo nada para ofrecer <br/> nada que te pueda sorprender <br/>Solo un corazón, quebrantado <br/>Una y otra vez </lines>
+    </verse>
+    <verse name="v2">
+      <lines>No hay nada que me enamore mas <br/>Nada que me apasione mas <br/>Solo tu presencia <br/>Solo tu mirada <br/>Me hace suspirar </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Me inclino ante ti, <br/>Rey que perdona, multitud de errores <br/>Me inclino ante ti... </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Digno, eternamente Digno <br/>Impresionante, Digno <br/>Solo ante ti yo me inclino </lines>
+    </verse>
+  </lyrics>
+</song>

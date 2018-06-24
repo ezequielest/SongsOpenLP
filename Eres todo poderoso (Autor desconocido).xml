@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:29">
+  <properties>
+    <titles>
+      <title>Eres todo poderoso</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La única razón de mi adoración eres tu mi jesús <br/>el único motivo para vivir eres tu mi señor </lines>
+    </verse>
+    <verse name="v2">
+      <lines>mi única verdad está en ti eres mi luz y mi salvación <br/>mi unico amor eres tu señor y por siempre te alabaré</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eres todo Poderoso<br/>Eres Grande y Majestuoso<br/>Eres fuerte, invensible y no hay nadie como tu</lines>
+    </verse>
+  </lyrics>
+</song>

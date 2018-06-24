@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:30">
+  <properties>
+    <titles>
+      <title>Eres tu la unica razon</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1a">
+      <lines>Eres tu la unica razon<br/>De mi adoración OH Jesús </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Eres tú la esperanza que anhele tener OH Jesús </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Confié en ti me has ayudado <br/>Tu salvación me has regalado </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hoy hay gozo en mi corazón <br/>Con mi canto te alabare</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Te alabare, te glorificare <br/>Te alabare mi buen Jesús <br/>Te alabare, te glorificare <br/>Te alabare, mi buen Jesús</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>en todo tiempo te alabare<br/>en todo tiempo te adorare</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T21:00:01">
+  <properties>
+    <titles>
+      <title>Alaba</title>
+    </titles>
+    <authors>
+      <author>Danny Berrios</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios no rechaza oración <br/>oración es alimento <br/>nunca vi un justo sin respuesta <br/>o quedar en sufrimiento </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Basta solamente esperar <br/>lo que Dios ira a hacer <br/>Cuando el levanta sus manos <br/>es hora de vencer </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh alaba, simplementa alaba <br/>estas llorando alaba , en la prueba alaba <br/>estas sufriendo alaba , no importa alaba <br/>tu alabanza el escuchara </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dios va al frente abriendo caminos <br/>quebrando cadenas sacando espinas <br/>manda a sus angeles contigo a luchar <br/>el abre puertas nadie puede cerrar </lines>
+    </verse>
+    <verse name="c3">
+      <lines>El trabaja para los que confian <br/>camina contigo de noche y de dia <br/>levanta tus manos tu victoria llego <br/>comienza a cantar <br/>y Alaba a Dios</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La gente necesita entender<br/>lo que Dios esta hablando<br/>cuando El queda en silencio<br/>es porque esta trabajando</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Basta solamente esperar<br/>lo que Dios ira a hacer<br/>cuando el extiende sus manos<br/>es hora de vencer</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Alaba a Dios</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:56">
+  <properties>
+    <titles>
+      <title>Tu fuego caiga hoy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AL CANTARTE SEÑOR MANDA TU FUEGO HOY</lines>
+    </verse>
+    <verse name="v2">
+      <lines>TRAE TU LLUVIA SEÑOR EN ALAS DE AMOR</lines>
+    </verse>
+    <verse name="v3">
+      <lines>DERRAMA DEL CIELO TU SANTA PASIÓN<br/>  Y UN NUEVO DESPERTAR</lines>
+    </verse>
+    <verse name="v4">
+      <lines>TU FUEGO CAIGA HOY, TU FUEGO CAIGA HOY</lines>
+    </verse>
+    <verse name="v5">
+      <lines>CAE AQUI EL PODER DE TU ESPIRITU</lines>
+    </verse>
+    <verse name="v6">
+      <lines>PADRE QUE TU FUEGO CAIGA HOY</lines>
+    </verse>
+  </lyrics>
+</song>

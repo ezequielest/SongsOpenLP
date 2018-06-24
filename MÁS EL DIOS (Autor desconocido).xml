@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-11-12T14:00:07">
+  <properties>
+    <titles>
+      <title>MÁS EL DIOS</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mas el Dios de toda gracia que nos llamo a su gloria eterna<br/>os perfeccione y afirme, fortalezca y establezca</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Él sea la gloria <br/>a Él sea el imperio <br/>por los siglos de los siglos amén.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:38">
+  <properties>
+    <titles>
+      <title>levantate señor</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Levantate, levantate Señor//</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Huyen delante de ti tus enemigos, <br/>se dispersan delante de ti <br/>todos aquellos que aborrecen tu presencia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu presencia reinará, sobre todo imprerio <br/>Tu presencia reinarà, gobernará sobre todo principado</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>Espíritu de maldad ¡huye!<br/>Espíritu de rencor ¡huye!<br/>Espíritu de división ¡huye!</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Espírito de rebilión ¡huye!<br/>Espíritu de inmoral ¡huye!<br/>Espíritu de oscuridad ¡huye!</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>Espíritu de ambisión ¡huye!<br/>Espíritu profanador ¡huye!<br/>Espíritu de vanidad ¡huye!</lines>
+    </verse>
+    <verse name="e1d">
+      <lines>Espíritu de contensión ¡huye!<br/>Espíritu hechicería ¡huye!<br/>Espíritu de mortandad ¡huye!</lines>
+    </verse>
+  </lyrics>
+</song>

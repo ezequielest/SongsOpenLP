@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:14">
+  <properties>
+    <titles>
+      <title>Al estar aqui</title>
+      <title>Cuando veo la grandeza de tu dulce amor</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Al estar en la presencia de tu divinidad <br/>y al contemplar la hermosura de tu santidad </lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mi espíritu se alegra en tu majestad <br/>te adoro a ti, te adoro a ti</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Cuando veo la grandeza de tu dulce amor <br/>y compruebo la pureza de tu corazón </lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mi espíritu se alegra en tu majestad <br/>te adoro a ti, te adoro a ti </lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Y al estar aquí delante de ti te adorare <br/>postrado ante ti mi corazón te adora oh Dios </lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Y siempre quiero estar para adorar y contemplar tu santidad <br/>te adoro a ti Señor, te adoro a ti</lines>
+    </verse>
+  </lyrics>
+</song>

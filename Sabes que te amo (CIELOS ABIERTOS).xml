@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-11-05T14:23:40">
+  <properties>
+    <titles>
+      <title>Sabes que te amo</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu sabes que te amo <br/>Tu sabes que quiero conocerte más <br/>Más que antes señor </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Palabras sinceras<br/>Palabras que salen de mi corazón <br/>Tu eres mi devoción</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rey de majestad<br/>Yo tengo un deseo, estar contigo mi señor </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesús eres mi salvador y señor y por siempre y siempre daré alabanzas a ti</lines>
+    </verse>
+  </lyrics>
+</song>

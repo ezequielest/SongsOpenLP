@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T21:04:45">
+  <properties>
+    <titles>
+      <title>Por siempre</title>
+    </titles>
+    <authors>
+      <author>Evan Craf</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La luna entristeció<br/>El sol se apagó<br/>Cayó el salvador del mundo<br/>Su cuerpo en la cruz<br/>Su sangre derramó<br/>El peso del pecado<br/>Sobre él</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al fin él suspiró<br/>El cielo lo ignoró<br/>El hijo descendió en tinieblas<br/>La guerra en el seol<br/>La muerte derrotó<br/>El infierno fue al fin vencido</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La tierra retumbó<br/>La piedra él quitó<br/>Su amor perfecto siempre vencerá<br/>El rey resucitó<br/>La muerte derrotó<br/>Ganando la victoria</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por siempre él la gloria es<br/>Por siempre exaltado es<br/>Por siempre él es digno<br/>Vivo está, vivo está<br/>La tierra retumbó<br/>La piedra él quitó<br/>Su amor perfecto siempre vencerá</lines>
+    </verse>
+    <verse name="v5">
+      <lines>El rey resucitó<br/>La muerte derrotó<br/>Ganando la victoria<br/>Por siempre él la gloria es<br/>Por siempre exaltado es<br/>Por siempre él es digno<br/>Vivo está, vivo está</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Canto aleluya, canto aleluya<br/>Canto aleluya, él cordero yá venció<br/>Canto aleluya, canto aleluya, canto aleluya<br/>Por siempre él la gloria es<br/>Por siempre exaltado es<br/>Por siempre él es digno<br/>Vivo está, vivo está</lines>
+    </verse>
+  </lyrics>
+</song>

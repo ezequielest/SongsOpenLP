@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T23:43:29">
+  <properties>
+    <titles>
+      <title>Enganchado Especial</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>\\Elías oraba en el Monte Carmelo para que el fuego bajara desde el cielo//<br/>\\Y cuando él oró el fuego cayó y todo el holocausto allí se consumió//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Pero que caiga el fuego que se encienda la llama<br/> que se encienda la llama con su poder//</lines>
+    </verse>
+    <verse name="v2">
+      <lines>//No te dejaré si no me bendices, no te dejaré aunque raye el alba//</lines>
+    </verse>
+    <verse name="v3">
+      <lines>//Bendiceme, bendiceme, bendiceme ahora//</lines>
+    </verse>
+    <verse name="v4">
+      <lines>//Ahora, ahora, bendiceme ahora//</lines>
+    </verse>
+    <verse name="v5">
+      <lines>//En el altar de Dios// El fuego está encendido//</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nadie lo podrá apagar, nadie lo podrá apagar por que el fuego del Señor en mi corazón está</lines>
+    </verse>
+  </lyrics>
+</song>

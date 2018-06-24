@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:18">
+  <properties>
+    <titles>
+      <title>CREADOR DE TODO</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>CREADOR DE TODO, SELLO CELESTIAL, <br/>ERES EL ÚNICO, GRABADO EN MÍ SER.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>INSPIRACIÓN DIVINA, ALIENTO CREADOR, <br/>ERES EL ÚNICO, GRABADO EN MÍ SER.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>TU ERES DIOS INCOMPARABLE, <br/>SE ABREN LOS CIELOS CON TU VOZ,<br/>NO DEJARÉ DE ADORARTE,<br/>TU ERES MÍ PASIÓN.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>AMANECER DE VIDA, COMIENZO SIN FINAL,<br/>ERES EL ÚNICO, GRABADO EN MÍ SER.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>INSPIRACIÓN DIVINA, ALIENTO CREADOR,<br/>ERES EL ÚNICO, GRABADO EN MÍ SER.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>ERES MÍ PASIÓN, <br/>ERES TODO EN MÍ,<br/>NADA MÁS PUEDO DECIR.</lines>
+    </verse>
+  </lyrics>
+</song>

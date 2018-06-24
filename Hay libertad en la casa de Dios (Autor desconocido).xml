@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:34">
+  <properties>
+    <titles>
+      <title>Hay libertad en la casa de Dios</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>HOY PUEDO DANZAR CON LIBERTAD<br/>PORQUE SOY SU HIJO<br/>PORQUE SOY SU HIJO </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>HOY PUEDO DANZAR CON LIBERTAD<br/>PORQUE SOY AMADO, <br/>PORQUE SOY AMADO </lines>
+    </verse>
+    <verse name="v1c">
+      <lines>PODEMOS SENTIR SU GOZO,<br/>PODEMOS SENTIR SU RIO<br/>HAY SANIDAD EN LAS AGUAS,<br/>QUEREMOS DANZAR</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>HAY LIBERTAD EN LA CASA DE DIOS//<br/>HAY LIBERTAD<br/>HAY LIBERTAD</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>HAY LIBERTAD EN LA CASA<br/>HAY LIBERTAD AL DANZAR//</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>PUEDO DANZAR EN LA CASA DE DIOS//<br/>PUEDO DANZAR Y DISFRUTAR</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>QUE SOMOS LIBRES,<br/>SOMOS LIBRES<br/>POR TU SANGRE<br/>LIBRE SOY</lines>
+    </verse>
+  </lyrics>
+</song>

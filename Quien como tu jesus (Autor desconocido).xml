@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-22T22:14:13">
+  <properties>
+    <titles>
+      <title>Quien como tu jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v2 v3 e1 v3</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quién como tu Jesús <br/>que me enamore <br/>Quién como tu Señor <br/>que me transforme <br/>amor eterno y completo <br/>Tu siempre me das</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quién como tu Jesús <br/>que me perdone <br/>Quién como tu Señor <br/>que me renueve <br/>palabras de vida eterna <br/>siempre me hablarán</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eres mi guía, Tu eres mi vida <br/>eres mi amor, mi pasión, mi alegría <br/>eres mi dueño <br/>mi padre eterno <br/>todo mi amor y mi ser te ofresco //<br/>Jesús </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quién como tu Jesús <br/>que me enamore <br/>Quién como tu Señor <br/>que me transforme <br/>amor eterno y completo <br/>Tu siempre me das <br/>oh oh oh oh</lines>
+    </verse>
+    <verse name="e1">
+      <lines>y ahora digo <br/>///Quién como Tu/// <br/>Nadie como Tu <br/>A celebrar</lines>
+    </verse>
+  </lyrics>
+</song>

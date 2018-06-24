@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:53">
+  <properties>
+    <titles>
+      <title>Soy nueva criatura</title>
+    </titles>
+    <authors>
+      <author type="music">jesus adrian romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soy nueva criatura lo declara la escritura <br/>el me ha perdonado con su sangre me ha lavado <br/>todos mis pecados por su sangre son borrados <br/>libre soy de pecado </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Libre del pecado y la maldad <br/>soy libre el ha roto mis cadenas <br/>libre, libre para dar mi vida al que me salvó </lines>
+    </verse>
+    <verse name="v2">
+      <lines>soy nueva criatura <br/>lo declara la escritura</lines>
+    </verse>
+  </lyrics>
+</song>

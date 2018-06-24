@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:20">
+  <properties>
+    <titles>
+      <title>Cuando allà se pase lista</title>
+    </titles>
+    <verseOrder>c1 e1 c1 c1</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>en aquel día final, <br/>y que el alba eterna rompa en claridad;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>a su patria lleguen yá, <br/>y que sea pasada lista,allí he de estar.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>en que muerte ya no habra, <br/>y su gloria el Salvador impartirá;</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>a su celestial hogar, <br/>y que sea pasada lista,allí he de estar.</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Cuando allá se pase lista, <br/>Cuando allá se pase lista; <br/>A mi nombre yo feliz responderé.</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>Trabajemos por el maestro, <br/>desde el alba al vislumbrar; <br/>Siempre hablemos de su amor y fiel bondad.</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>y nuestra obra cese ya, <br/>y que sea pasada lista,allí he de estar.</lines>
+    </verse>
+  </lyrics>
+</song>

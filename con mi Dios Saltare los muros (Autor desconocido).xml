@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:18">
+  <properties>
+    <titles>
+      <title>con mi Dios Saltare los muros</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>//Con mi Dios yo saltare los muros <br/>con mi Dios ejercitos derribare// <br/><br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>El adiestra mis manos para la batalla <br/>puedo tomar con mis manos el arco de bronce <br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>El es escudo, la roca mia <br/>el es la fuerza de mi salvacion <br/>mi alto refugio y mi fortaleza. <br/>El es mi libertador</lines>
+    </verse>
+  </lyrics>
+</song>

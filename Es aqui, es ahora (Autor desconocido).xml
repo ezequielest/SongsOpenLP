@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:30">
+  <properties>
+    <titles>
+      <title>Es aqui, es ahora</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1a">
+      <lines>mueve en mi,<br/>Dios haz tu obra<br/>muevete<br/>con tu poder sobrenatural</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Necesito acercarme,<br/>yo deseo embriagarme<br/>de tu amor y tu poder<br/>sobrenatural</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>Dios sobrenatural,<br/>Dios sobrenatural</lines>
+    </verse>
+    <verse name="e1d">
+      <lines>Muevete en las naciones,<br/>muevete en los corazones,<br/>muevete con tu poder<br/>sobrenatural<br/>Muevete en mi vida,<br/>muevete cada día,<br/>muevete con tu poder<br/>sobrenatural</lines>
+    </verse>
+    <verse name="e1e">
+      <lines>sobrenatural,<br/>sobrenatural,<br/> sobrenatural</lines>
+    </verse>
+  </lyrics>
+</song>

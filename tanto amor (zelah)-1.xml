@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:54">
+  <properties>
+    <titles>
+      <title>tanto amor</title>
+    </titles>
+    <authors>
+      <author type="words">zelah</author>
+      <author type="music">zelah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú me ves aunque nadie me vea<br/>Y me amas igual<br/>Estarás conmigo en la tormenta<br/>Nunca me dejarás en soledad</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quiero hacer todo lo que me pidas<br/>Las palabras sobran<br/>Caminar contigo a mi lado<br/>Es lo que me da seguridad</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tú nunca fallarás, vives en mí<br/>Tú nunca cambiarás, vives en mí</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu amor traspasa la razón<br/>Me hablas y yo siento tu calor<br/>Tú eres la razón por la que vivo yo</lines>
+    </verse>
+    <verse name="c2">
+      <lines>No entiendo cómo me das tanto amor<br/>Algunos no entienden lo que es<br/>amarte a Tí, mi Dios<br/>Tu amor va más allá</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Aunque un ejército acampe contra mí<br/>no temerá mi corazón<br/>Aunque haya guerras hoy a mi alrededor<br/>Yo confiaré, yo confiaré</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-08-26T14:21:20">
+  <properties>
+    <titles>
+      <title>EN EL TRONO ESTA</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Caminaré por el fuego <br/>y por la oscuridad. <br/>Caminaré por las aguas <br/>//Y no me vencerán// </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Caminaré por las pruebas <br/>y el valle del temor. <br/>Caminaré en la tormenta <br/>//Y no me vencerán// </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dios es fiel, Él puede. <br/>Es mas grande que el gigante <br/>que pueda enfrentar. <br/>Por siempre firme estaré, <br/>pues sólo Dios en el trono está. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Caminaré en tus promesas <br/>y en tu victoria andaré. <br/>Caminaré con tus fuerzas <br/>//Y no me vencerán// </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dios es fiel, Él puede. <br/>Es más grande que el gigante <br/>que pueda enfrentar. <br/>Por siempre firme estaré, pues sólo Dios <br/>en el trono está. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>//Glorioso, victorioso, <br/>soberano Dios, <br/>en el trono está. <br/>Infinito, magnífico, <br/>soberano Dios, <br/>en el trono está. //<br/>sobre todo Dios. </lines>
+    </verse>
+    <verse name="v7">
+      <lines>//Dios es fiel, Él puede. <br/>Es más grande que el gigante <br/>que pueda enfrentar. <br/>Por siempre firme estaré, <br/>pues sólo Dios en el trono está// <br/>OH OH OH <br/>EN EL TRONO ESTÁ </lines>
+    </verse>
+  </lyrics>
+</song>

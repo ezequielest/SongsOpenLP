@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:22:01">
+  <properties>
+    <titles>
+      <title>yo se que estàs quì</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo sè que estàs aqui<br/>siento tu caminar<br/>te mueves entre el pueblo trayendo sanidad</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Con mi fé te alcanzarè<br/>Con mi Fé te tocaré</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>mi milagro recibiré y sé que transformado yo seré</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:53">
+  <properties>
+    <titles>
+      <title>Sublime gracia</title>
+    </titles>
+    <verseOrder>v1 v2 v3 e1 v3</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sublime Gracia del Señor <br/>que a mi pecador salvo<br/>Fui ciego mas  hoy miro yo <br/>perdido y El me hallo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Su Gracia me enseñò a temer <br/>mis dudas ahuyentò<br/>Oh cuan precioso fue a mi ser <br/>cuando el me transformò</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De mi maldad me libertò <br/>mi Salvador me rescatò<br/>Y como el mar fluye su amor <br/>Sublime gracia y amor</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>que yo he tenido aquí <br/>su gracia siempre me libró <br/>y me guiará feliz</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Y cuando en Sión <br/>por siglos mil <br/>brillando este cual sol <br/>yo cantare por siempre al fin<br/>su amor que me salvò</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:34">
+  <properties>
+    <titles>
+      <title>Hay poder (Coalo Zamorano)</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>SOMOS HIJOS PERDONADOS<br/>RESCATADOS DE LA MUERTE<br/>REDIMIDOS ACEPTADOS <br/>NUESTRO DUEÑO ES EL MAS FUERTE</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>MAS CRISTO AL MUNDO VENCIÓ</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>HAY PODER<br/>EN SU SANGRE DIVINA, EN LA FUENTE DE VIDA<br/>HAY PODER<br/>EN SU SANGRE GLORIOSA EN LA CRUZ VICTORIOSA<br/>HAY PODER</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>HOY CAMINAMOS SIN DERROTA <br/>LIBRES SOMOS POR SU SANGRE <br/>Y LAS CADENAS YA ESTÁN ROTAS</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>MAS CRISTO AL MUNDO VENCIÓ</lines>
+    </verse>
+  </lyrics>
+</song>

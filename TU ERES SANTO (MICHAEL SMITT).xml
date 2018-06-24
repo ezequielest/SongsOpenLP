@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:58:00">
+  <properties>
+    <titles>
+      <title>TU ERES SANTO</title>
+    </titles>
+    <authors>
+      <author>MICHAEL SMITT</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>TU ERES SANTO<br/>PODEROSO<br/>TU ERES DIGNO <br/>DE ADORACION</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>SEGUIRE SEÑOR TUS CAMINOS<br/>PARA SIEMPRE<br/>TE AMARE</lines>
+    </verse>
+    <verse name="c1">
+      <lines>YO CANTO,ADORO<br/>AL REY QUE VIVE<br/>YO DANZO, ME POSTRO<br/>DELANTE DE TI.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>PRINCIPE DE PAZ PARA TI <br/>YO VIVIRE.</lines>
+    </verse>
+  </lyrics>
+</song>

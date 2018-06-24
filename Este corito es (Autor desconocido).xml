@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:31">
+  <properties>
+    <titles>
+      <title>Este corito es</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Este corito es para alabar a Dios <br/>y si tu le alabas tambien sientes lo mismo que yo//</lines>
+    </verse>
+    <verse name="v2">
+      <lines> yo siento que el espiritu santo se esta derramando en mi corazon <br/>y que una nube del cielo se esta vislumbrando en la casa de Dios</lines>
+    </verse>
+    <verse name="v3">
+      <lines>//estaban todos unanimes en fuego y oracion//</lines>
+    </verse>
+    <verse name="v4">
+      <lines>//y desde el cielo bajo el espiritu santo//</lines>
+    </verse>
+    <verse name="v5">
+      <lines>//espiritu santo llename, llename llename <br/>espiritu santo llename, llename de tu amor//</lines>
+    </verse>
+  </lyrics>
+</song>

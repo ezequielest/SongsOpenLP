@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-15T12:23:15">
+  <properties>
+    <titles>
+      <title>libre</title>
+      <title>donde el espiritu de dios esta</title>
+    </titles>
+    <authors>
+      <author>miel san marcos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Donde el Espíritu de Dios está<br/>Hay libertad, puedo adorar<br/>Todas mis culpas y maldades fueron<br/>Borradas en la cruz, libre soy.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Perdonado soy solo por tu amor<br/>No hay más condenación<br/>Cristo me libertó.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Caen las murallas caen<br/>Las cadenas Dios destruyó libre soy<br/>Libre Dios me hizo libre<br/>El venció la muerte por mi<br/>Libre soy, libre soy.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Se rompen cadenas<br/>No soy esclavo mas<br/>En Cristo soy libre<br/>No hay más condenación</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:12">
+  <properties>
+    <titles>
+      <title>Abre mis ojos (Niqui)</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Abre mis ojos oh Cristo <br/>Abre mis ojos Te pido <br/>Yo quiero verte <br/>Sì quiero verte</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Verte en lo alto levantado <br/>brilla la luz de tu gloria<br/>manda tu poder y amor<br/>a ti cantamos Santo Santo</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Santo, Santo, Santo<br/>yo quiero verte</lines>
+    </verse>
+  </lyrics>
+</song>

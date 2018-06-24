@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:24">
+  <properties>
+    <titles>
+      <title>DIOS INCOMPARABLE</title>
+      <title>ERES DIOS ETERNO</title>
+    </titles>
+    <authors>
+      <author type="words">GENERACION</author>
+      <author type="music">GENERACION</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios de mi corazón, en ti <br/>Encontré mi salvación <br/>Tu gloria y majestad quiero <br/>Siempre contemplar </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tú eres mi adoración <br/>Y mi eterna canción <br/>Todo mi interior es <br/>Cautivado por tu amor <br/><br/> </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eres Dios eterno <br/>Solo tú eres bueno <br/>Dios incomparable eres tú <br/>Nunca me separare de tu gran amor <br/>Eres mi señor mi salvador </lines>
+    </verse>
+    <verse name="b1">
+      <lines>ALELUYA ALELUYA</lines>
+    </verse>
+  </lyrics>
+</song>

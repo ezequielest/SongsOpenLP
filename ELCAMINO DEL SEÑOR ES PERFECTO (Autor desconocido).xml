@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-08-12T22:06:18">
+  <properties>
+    <titles>
+      <title>ELCAMINO DEL SEÑOR ES PERFECTO</title>
+      <title>PERSEGUI A MIS ENEMIGOS</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1">
+      <lines>EL CAMINO DEL SEÑOR ES PERFECTO<br/>LA PALABRA DEL SEÑOR ES PODER,<br/>ES EL ARMA Y ESCUDO<br/> DE TODO LOS QUE EN ÉL CONFÍAN</lines>
+    </verse>
+    <verse name="v1">
+      <lines>CRISTO ES MI FORTALEZA ES MI ESCUDO CON<br/>ÉL PASO EN MEDIO DE UN BATALLÓN<br/>EL ADIESTRA MIS MANOS<br/>ME PREPARA PARA GUERREAR</lines>
+    </verse>
+    <verse name="v2">
+      <lines>¿POR QUÉ QUIÉN ES DIOS,<br/>SI NO EL SEÑOR? </lines>
+    </verse>
+    <verse name="v3">
+      <lines>¿Y QUIÉN ES LA ROCA?<br/>SI NO NUESTRO DIOS<br/>ALELUYA,ALELUYA,ALELUYA</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>PERSEGUÍ A MIS ENMIGOS LOS ALCANCÉ<br/>LOS DESTRUÍ LOS ATRAVESÉ<br/>BAJO LOS PIES DEL SEÑOR CAYERON<br/>NO SE LEVANTARÁN MÁS</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>ALELUYA,ALELUYA,ALELUYA</lines>
+    </verse>
+  </lyrics>
+</song>

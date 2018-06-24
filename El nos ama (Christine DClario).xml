@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T21:09:57">
+  <properties>
+    <titles>
+      <title>El nos ama</title>
+    </titles>
+    <authors>
+      <author>Christine DClario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Él tiene celo por mí,<br/>su amor es un huracán yo árbol soy<br/>doblándome bajo el peso de su viento y gracia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y así de repente,<br/>Ya no recuerdo mi aflicción eclipsada<br/>en gloria,<br/>me doy cuenta de cuan hermoso eres Tú<br/>y cuan grande es tu afecto por mí.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, Él nos ama hoy,<br/>cuanto Él nos ama,<br/>Él nos ama hoy.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Él nos ama,<br/>¡Oh! Él nos ama, ¡Oh! Él nos ama<br/>cuanto Él nos ama.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Él es mi premio y yo su porción<br/>su mirada de gracia nos trae redención,<br/>si esa gracia es un mar nos sumergimos,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>El cielo y la tierra se une en un beso,<br/>y mi corazón salta en mi pecho<br/>no hay tiempo de persistir en lamento<br/>cuando pienso en tu amor.</lines>
+    </verse>
+  </lyrics>
+</song>

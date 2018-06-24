@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:13">
+  <properties>
+    <titles>
+      <title>A DIOS SEA LA GLORIA</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>COMO AGRADECER<br/>TODAS LAS COSAS<br/>QUE HAS HECHO POR MI</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>COSAS INMERECIDAS<br/>QUE DISTE PARA MOSTRAR TU AMOR POR MI</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>LAS VOCES DE UN MILLON DE ÁNGELES <br/>NO EXPRESARAN MI GRATITUD</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>LO QUE SOY Y LO QUE ANHELO SER<br/>LO DEBO A TI</lines>
+    </verse>
+    <verse name="c1e">
+      <lines><br/>A DIOS SEA LA GLORIA ///<br/>POR LO QUE HIZO POR MI</lines>
+    </verse>
+    <verse name="v1">
+      <lines>CON SU SANGRE ME HA LIMPIADO<br/>CON SU PODER ME HA LEVANTADO<br/>A DIOS SEA LA GLORIA <br/>POR LO QUE HIZO POR MI</lines>
+    </verse>
+  </lyrics>
+</song>

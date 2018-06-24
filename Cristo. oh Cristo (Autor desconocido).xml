@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:19">
+  <properties>
+    <titles>
+      <title>Cristo. oh Cristo</title>
+    </titles>
+    <authors>
+      <author type="words">Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Cristo oh Cristo///<br/>Tu presencia me sanó//<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Al reunirnos en su nombre <br/>Prometió estar aquí<br/>Esta aquí<br/>Si esta aquí, si esta aquí <br/>Su presencia sentimos</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>El cojo, el ciego<br/>y el mudo débiles de dolor<br/>Mas si Cristo está aquí, <br/>si esta aquí, <br/>En su nombre limpio serás,<br/>Sano serás, lleno serás.</lines>
+    </verse>
+  </lyrics>
+</song>

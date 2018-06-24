@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:44">
+  <properties>
+    <titles>
+      <title>Oh Señor, oh Señor</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>levanto mis manos<br/>te quiero adorar<br/>tu rostro quiero ver<br/>te quiero adorar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Tu eres santo<br/>tu eres digno<br/>tu eres santo<br/>tu eres digno</lines>
+    </verse>
+    <verse name="v3">
+      <lines>////Oh Señor, Oh Señor<br/>Tu gloria llena la tierra////</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yo adoro al rey, <br/>Yo adoro al rey,<br/>Yo adoro al rey, <br/>al rey de gloria.</lines>
+    </verse>
+  </lyrics>
+</song>

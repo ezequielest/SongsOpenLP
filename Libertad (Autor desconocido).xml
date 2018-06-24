@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:39">
+  <properties>
+    <titles>
+      <title>Libertad</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me has dado libertad, salí de mi prisión <br/>tu gran poder, en mi rompió <br/>las condenas de mi gran opresión</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me has dado salvación, cautivo ya no soy <br/>no vivo más en condenación he sido libre <br/>por tu gran amor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Libertad, tú me has dado <br/>libertad, de mis cadenas <br/>libertad, no soy esclavo <br/>soy  tan libre puedo casi volar//</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Libre soy en Jesús, libre soy por su cruz <br/>he visto en Él la luz, porque no vienes tú</lines>
+    </verse>
+  </lyrics>
+</song>

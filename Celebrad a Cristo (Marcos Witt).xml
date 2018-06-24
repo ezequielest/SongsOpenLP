@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-01T13:35:58">
+  <properties>
+    <titles>
+      <title>Celebrad a Cristo</title>
+      <title>resucito</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Celebrad a Cristo, Celebrad<br/>Celebrad a Cristo, Celebrad</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Resucito, resucito <br/>El vive para siempre</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Vamos a celebrar <br/>Vamos a celebrar<br/>Vamos a celebrar<br/>Resucito el Señor</lines>
+    </verse>
+    <verse name="c3">
+      <lines>El vive, El vive<br/>y por siempre El reinara <br/>El vive, El vive<br/>Vamos a celebra<br/>Que nuestro Señor resucito</lines>
+    </verse>
+  </lyrics>
+</song>

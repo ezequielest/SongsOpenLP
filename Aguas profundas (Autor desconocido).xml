@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:13">
+  <properties>
+    <titles>
+      <title>Aguas profundas</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>VEN SOBRE MI COMO LLUVIA<br/>HAS LAS AGUAS SUBIR EN ESTE LUGAR <br/>LIBERA TU RIO SIN MEDIDA<br/>Y VEN A TUS AGUAS A AGITAR</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>QUIERO NADAR, <br/>QUIERO NADAR EN TU RIO<br/>QUIERO BEBER, QUIERO BEBER <br/>DE TUS AGUAS.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>EXISTEN AGUAS A LOS TOBILLOS<br/>EXISTEN AGUAS A LAS RODILLAS<br/>EXISTEN AGUAS A LOS HOMBROS,<br/>PERO HAY AGUAS PROFUNDAS YO LO SÉ</lines>
+    </verse>
+  </lyrics>
+</song>

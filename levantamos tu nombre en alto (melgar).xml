@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:37">
+  <properties>
+    <titles>
+      <title>levantamos tu nombre en alto</title>
+      <title>tu nombre en alto</title>
+    </titles>
+    <authors>
+      <author>melgar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Dios, danos nuevo corazón <br/>Que en tu gloria vea exaltar<br/> </lines>
+    </verse>
+    <verse name="p1">
+      <lines><br/>Tu nombre en alto, más alto, más alto <br/>//Exaltar tu nombre en alto, mas alto, mas alto// </lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>//Rendimos solo a ti, Rendimos solo a ti, <br/>Rendimos solo a ti, Rendimos solo a ti// </lines>
+    </verse>
+  </lyrics>
+</song>

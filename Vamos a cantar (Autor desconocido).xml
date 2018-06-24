@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:58">
+  <properties>
+    <titles>
+      <title>Vamos a cantar</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>VAMOS A CANTAR,<br/>CON LA MUSICA DEL CIELO <br/>VAMOS A CANTAR,<br/>ALEGRES PORQUE ESCUCHAS <br/>CUANDO CANTAMOS<br/>PARA EXALTAR TU NOMBRE</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>AMAMOS TODO DE TI <br/>CIELO Y TIERRA TE ADORAN <br/>LOS REINOS SE RINDEN,<br/>HIJO DE DIOS<br/>TÚ ERES POR QUIEN<br/>TÚ ERES POR QUIEN<br/>VIVIMOS HOY</lines>
+    </verse>
+    <verse name="e1">
+      <lines>TU ERES QUIEN NOS LIBERTA<br/>ERES LA LUZ QUE GUIA<br/>COMO FUEGO ARDIENTE<br/>HIJO DE DIOS <br/>TU ERES POR QUIEN<br/>TU ERES POR QUIEN<br/>VIVIMOS HOY</lines>
+    </verse>
+  </lyrics>
+</song>

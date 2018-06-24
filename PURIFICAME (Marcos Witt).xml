@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T15:17:42">
+  <properties>
+    <titles>
+      <title>PURIFICAME</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Enseñame tu camino Señor<br/>y andare en tu luz<br/>dame un corazon entregado a ti para honrarte oh Dios</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Purificame limpiame Señor<br/>y librame de lo que impida el fluir<br/>purificame limpiame Señor<br/>y librame de lo que impida el fluir de tu amor</lines>
+    </verse>
+  </lyrics>
+</song>

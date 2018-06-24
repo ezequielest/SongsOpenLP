@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:21">
+  <properties>
+    <titles>
+      <title>danzare cantare</title>
+    </titles>
+    <verseOrder>v1 v2 v2 v3</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿A donde ire sin ti Señor? <br/>Si solo Tu Jesús tienes palabras de vida <br/>Si subiera al monte mas alto <br/>O bajara hasta el fondo del mar <br/>¿Quien me dara quien me mostrara tal amor?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Danzare, cantare derramare mi corazon delante de ti <br/>Es el rio de tu amor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tantos años yo perdi sin el amor que no pude ver <br/>Hasta que encontre la presencia de Dios <br/>Aqui en el rio</lines>
+    </verse>
+  </lyrics>
+</song>

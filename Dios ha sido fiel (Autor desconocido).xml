@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:24">
+  <properties>
+    <titles>
+      <title>Dios ha sido fiel</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1a">
+      <lines>PUEDE OSCURECER PUEDO SER RODEADO DE LO QUE NUNCA ESPERÉ <br/>ESTAR EN LA NEBLINA DE UN GRAN DOLOR, Y PENSAR QUE NO HAY SALIDA<br/>PARA MI </lines>
+    </verse>
+    <verse name="p1b">
+      <lines>PERO HAY UNA VERDAD QUE NUNCA ME DEJARÁ DESFALLECER <br/>Y AUNQUE YO NO LO DEBA MERECER, ME SOSTIENE </lines>
+    </verse>
+    <verse name="p1c">
+      <lines>DIOS HA SIDO FIEL, DIOS HA SIDO FIEL <br/>SU FIDELIDAD NUNCA ACABARÁ, PERMANECERÁ, SIEMPRE CRECERÁ</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>EL HA SIDO FIEL Y POR SIEMPRE LO SERÁ</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>AUNQUE EN MI VIDA HAYA DUDA, EN PLENA NOCHE OSCURA <br/>EL EXTIENDE SUS BRAZOS DE AMOR</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>Y ESTANDO EN LA TORMENTA, SU MIRADA ME ALIENTA <br/>Y OTRA VEZ ME DEJA VER QUE HA SIDO FIEL HA SIDO FIEL</lines>
+    </verse>
+  </lyrics>
+</song>

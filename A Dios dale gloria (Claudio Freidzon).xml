@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-07T15:14:21">
+  <properties>
+    <titles>
+      <title>A Dios dale gloria</title>
+    </titles>
+    <authors>
+      <author>Claudio Freidzon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A DIOS DALE GLORIA///<br/>Y LA VICTORIA///<br/>ÉL TE DARA</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CUANDO ESTABA PERDIDO EN EL PECADO<br/>ALLI FUE CUANDO CRISTO ME RESCATO<br/>Y AHORA LE DOY TODO Y POR SIEMPRE SOY DE ÉL<br/>DEBEMOS DARLE LA GLORIA A ÉL<br/>A DIOS...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>SATANAS INTENTA ENGAÑARTE<br/>EL QUIERE RETENERTE EN TU CAMINAR<br/>MAS NO TE DES POR VENCIDO<br/>PUES CRISTO LA VICTORIA YA TE DIO<br/>DEBEMOS DARLE LA GLORIA A ÉL<br/>A DIOS...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>DIABLO LA SANGRE DE CRISTO ESTA CONTRA TI///<br/>DEMOSLE GLORIA///<br/>A NUESTRO REY</lines>
+    </verse>
+  </lyrics>
+</song>

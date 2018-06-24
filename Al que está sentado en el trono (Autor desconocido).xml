@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:14">
+  <properties>
+    <titles>
+      <title>Al que está sentado en el trono</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero conocerte cada día más a Ti<br/>entrar en tu presencia <br/>y adorar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Revelanos tu gloria<br/>deseamos ir mucho más en ti <br/>queremos tu presencia Jesús</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al que esta sentado en el trono <br/>al que vive para siempre y siempre</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sea la gloria <br/>Sea la honra y el poder</lines>
+    </verse>
+    <verse name="v5">
+      <lines>santo santo <br/>santo eres tú</lines>
+    </verse>
+  </lyrics>
+</song>

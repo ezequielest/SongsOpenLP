@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:28">
+  <properties>
+    <titles>
+      <title>En ti confia mi corazón</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>En Ti confia mi corazon<br/>En ti reposa mi alma<br/>Mi ser, descansa en Ti<br/>Puedo ser feliz    //</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Porque se que estas obrando<br/>Tu perfecta voluntad<br/>En mi vida estas obrando<br/>Tu perfecta voluntad</lines>
+    </verse>
+  </lyrics>
+</song>

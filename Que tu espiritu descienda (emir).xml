@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-07T13:32:55">
+  <properties>
+    <titles>
+      <title>Que tu espiritu descienda</title>
+    </titles>
+    <authors>
+      <author>emir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Transforma lo que soy<br/>Desesperado estoy<br/>Hambriento de tu amor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De ti yo quiero mas<br/>Mi vida es un altar<br/>Ven y toma tu lugar</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Y sopla con el viento<br/>De tu avivamiento<br/>Satura todo este lugar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Que tu espíritu descienda<br/>Aquí cuidamos tu presencia<br/>El fuego de tu espíritu no se apagara</lines>
+    </verse>
+    <verse name="c2">
+      <lines>NO SE APAGARA</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Tu nos convocaste<br/>Tu nos redimiste<br/>Danos de beber<br/>Sacia nuestra sed</lines>
+    </verse>
+  </lyrics>
+</song>

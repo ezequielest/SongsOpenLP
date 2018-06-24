@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:12">
+  <properties>
+    <titles>
+      <title>Abre los cielos hoy</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1a">
+      <lines>Padre quiero estar donde tu estás<br/>cada día anhelo más de ti</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Lo único que quiero es ver tu gloria <br/>y que el fuego del cielo caiga aquí</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>¿Puedes mi pasión sentir? <br/>¿y el hambre ver en mí? <br/>Sabes que te anhelo a ti. </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>No más barreras,<br/>quita las tinieblas <br/>rompe este duro corazón <br/>oye mi clamor,<br/> abre los cielos hoy.</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>En todo lugar puedo sentir que <br/>Veremos tu Gloria descender <br/>Se puede escuchar este clamor <br/>En la boca de cada nación</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Lo único que quiero es ver tu gloria <br/>y que el fuego del cielo caiga aquí</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>Abre los cielos hoy.</lines>
+    </verse>
+  </lyrics>
+</song>

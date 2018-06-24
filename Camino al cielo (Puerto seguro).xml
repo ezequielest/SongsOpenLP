@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T21:28:16">
+  <properties>
+    <titles>
+      <title>Camino al cielo</title>
+    </titles>
+    <authors>
+      <author>Puerto seguro</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo estoy contento porque en mi tengo la vida<br/>La vida eterna que jesucristo me dio<br/>Yo tengo gozo, tengo paz, tengo alegría<br/>Camino al cielo yo voy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es la alegría que yo siento aquí en mi vida<br/>Yo no la cambio por la gloria de este mundo<br/>Estaba muerto y jesús me dio la vida<br/>Camino al cielo ya voy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yo tengo gozo, tengo alegría<br/>Tengo a jesús, tengo la paz, tengo la vida<br/>Yo tengo gozo, tengo alegría<br/>Camino al cielo yo voy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es la alegría que yo siento aquí en mi vida<br/>Yo no la cambio por la gloria de este mundo<br/>Estaba muerto y jesús me dio la vida<br/>Camino al cielo ya voy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>En jesucristo yo encontré la nueva vida<br/>La vida eterna que solo él te puede dar<br/>Yo Estaba muerto y Jesús me dio la vida<br/>Camino al cielo ya voy</lines>
+    </verse>
+  </lyrics>
+</song>

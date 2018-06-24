@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:36">
+  <properties>
+    <titles>
+      <title>inmenso amor</title>
+      <title>digno</title>
+    </titles>
+    <authors>
+      <author type="words">marco barrientos</author>
+      <author type="music">marco barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios sacó inmenso amor <br/>Lo diste todo por mi perdón <br/>Majestuoso, reinas hoy <br/>Poderoso, Eterno Dios. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santo, Santo, Santo, Santo <br/>Santo, Santo, Santo, Santo. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Redentor, Salvador <br/>Tú llevaste mi dolor <br/>Tu esperanza me alcanzó <br/>Por tu sangre vivo estoy. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>//Santo, Santo, Santo, Santo <br/>Santo, Santo, Santo, Santo// </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Redentor, Salvador <br/>Tú llevaste mi dolor <br/>Tu esperanza me alcanzó <br/>Por tu sangre vivo estoy. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>(Santo, Santo, Santo, Santo <br/>Santo, Santo, Santo, Santo) <br/>Santo, Santo, Santo, Santo <br/>Santo, Santo, Oh! </lines>
+    </verse>
+  </lyrics>
+</song>

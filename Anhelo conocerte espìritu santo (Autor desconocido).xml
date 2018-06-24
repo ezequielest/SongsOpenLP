@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:15">
+  <properties>
+    <titles>
+      <title>Anhelo conocerte espìritu santo</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Anhelo conocerte Espíritu Santo<br/>Anhelo siempre estar cerca de ti</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mas yo se que he fallado<br/>Tu presencia he descuidado<br/>Ven y limpia<br/>todo lo que hay en mi</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Como paloma con tu gracia<br/>hoy desciende<br/>Como aceite derramado<br/>ungeme</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Como fuente de agua viva<br/>sacia mi sed<br/>Llama de fuego<br/>ven y purifícame </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:41">
+  <properties>
+    <titles>
+      <title>Movimiento de gloria</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El movimiento de Gloria es como una corriente de agua <br/>que después crece, y se hace manantial //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El manantial se convierte en río, <br/>después en mar, <br/>y en océano poderoso //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Y la gloria de Dios cubrirá la Tierra, <br/>como las aguas cubren la mar //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi Cristo vendrá <br/>por su iglesia, por su iglesia//</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Demuestra tu Gloria//<br/>Aquí y ahora //</lines>
+    </verse>
+  </lyrics>
+</song>

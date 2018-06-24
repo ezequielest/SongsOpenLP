@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-08-26T13:22:30">
+  <properties>
+    <titles>
+      <title>TRAE AQUI EL CIELO</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>TRAE AQUÍ EL CIELO <br/>ÁNGELES DEL CIELO VENGAN A CANTAR </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>SE ESCUCHEN SUS VOCES EN ESTE LUGAR<br/>AUNQUE PAREZCA LOCURA <br/>AUNQUE SE QUE NO ES NORMAL</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>POR LA FE SUCEDERÁN <br/>COSAS INVISIBLES QUE NADIE HA TOCADO <br/>SONIDOS DEL CIELO QUE NADIE HA ESCUCHADO </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>COSAS QUE NO SON NORMALES <br/>COSAS SOBRENATURALES<br/>POR LA FE SUCEDERÁN </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>ABRE NOS NUESTROS OJOS COMO A ELISEO<br/>MUÉSTRANOS EL CIELO // </lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/> INUNDANOS DE TU GLORIA <br/>TRAE AQUÍ EL CIELO</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

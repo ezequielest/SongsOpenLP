@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:50">
+  <properties>
+    <titles>
+      <title>Rey infinito</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TE CORONAMOS, REY DE LOS CIELOS<br/>TE PROCLAMAMOS, REY Y SEÑOR</lines>
+    </verse>
+    <verse name="v2">
+      <lines>TE ENTREGAMOS TODA LA HONRA<br/>TE ADORAMOS, FIEL SALVADOR</lines>
+    </verse>
+    <verse name="v3">
+      <lines>JESUCRISTO, TU NOMBRE ES GRANDE<br/>JESUCRISTO, ERES SEÑOR</lines>
+    </verse>
+    <verse name="v4">
+      <lines>JESUCRISTO, REY INFINITO<br/>CRISTO ERES NUESTRO SALVADOR</lines>
+    </verse>
+    <verse name="v5">
+      <lines>TU NOMBRE EXALTARÉ<br/>TU NOMBRE ES SUBLIME<br/>TU NOMBRE ADORARÉ<br/>NO HAY OTRO NOMBRE, NO</lines>
+    </verse>
+    <verse name="v6">
+      <lines>TU NOMBRE EXALTARÉ<br/>TU NOMBRE ES SUBLIME<br/>TU NOMBRE ADORARÉ<br/>JESÚS, CORDERO DE DIOS</lines>
+    </verse>
+  </lyrics>
+</song>

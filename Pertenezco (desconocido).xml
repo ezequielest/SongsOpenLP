@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:45">
+  <properties>
+    <titles>
+      <title>Pertenezco</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Pertenezco a ti Señor Jesùs<br/>y no hay nada que pueda borrar<br/>ese amor que un día tú pusiste <br/>dentro de mi y ahora quiero recordar</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hoy mi vaso cae ante tí <br/>derramado a tus pies Señor<br/>rogando tu perdón por tanta rebelión<br/>que impide que pueda darte mi amor</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Alcanza oh Dios mi corazón <br/>rompelo y limpialo <br/>que tu puedas a través de mi<br/>reflejar tu gloria y tu amor</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:58">
+  <properties>
+    <titles>
+      <title>Ven, es hora de adorarle</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ven, es hora de adorarle.<br/>Ven, abre tu corazón a Él</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ven, ante su trono estamos<br/>Ven, ante la majestad de Dios<br/>Ven</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Toda lengua confesará que Él es Dios<br/>Las rodillas se doblarán<br/>Y un tesoro eterno tendrás en Él si escoges su amor<br/>Ven</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu eres Rey </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:28">
+  <properties>
+    <titles>
+      <title>en tu presencia</title>
+    </titles>
+    <authors>
+      <author>jaime murrell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Mi anhelo <br/>es buscarte día y noche, <br/>de tu amor y la ternura, <br/>de tu Espíritu Señor // </lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>// En tu presencia <br/>hay plenitud de gozo, <br/>en tu presencia <br/>Delicias a tu diestra <br/>por siempre y para siempre <br/>Me gozo en tu presencia //</lines>
+    </verse>
+  </lyrics>
+</song>

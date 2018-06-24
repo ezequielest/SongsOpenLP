@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-07T12:43:51">
+  <properties>
+    <titles>
+      <title>Tu haras</title>
+    </titles>
+    <verseOrder>c1 e1 e1</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Cuando el mar te dice<br/>te hundirás<br/>Me das tierra firme <br/>y puedo cruzar</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Cuando el monte dice:<br/>no pasarás<br/>Tengo tu palabra y eso bastará</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>Eres la fuerza que mueve mi vida</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Eres mi Dios y tu harás<br/>Mas allá de lo que pueda imaginar <br/>Mas allá de lo que pueda yo soñar</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>Eres Dios y harás</lines>
+    </verse>
+    <verse name="e1d">
+      <lines>Eres Dios de ayer, eres Dios que está<br/>Sabes lo que fue <br/>sabes que vendrá <br/></lines>
+    </verse>
+    <verse name="e1e">
+      <lines>Mi vida has cambiado, salvado <br/>Hoy vivo por tu gran amor <br/>Por tu gran amor</lines>
+    </verse>
+    <verse name="e1f">
+      <lines>A Dios sea la gloria y la honra<br/>Hoy para siempre</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Eres gran yo soy tu me sostendrás<br/>Tu eres mi Dios en ti puedo confiar </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:36">
+  <properties>
+    <titles>
+      <title>Jesus eres mi buen pastor</title>
+    </titles>
+    <authors>
+      <author>- Gadiel Espinoza</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cerca de ti yo quiero estar<br/>Para escuchar tu voz y aprender de ti </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quiero ser un reflejo de tu amor<br/>Yo quiero vivir solo en tu voluntad</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesús, eres mi buen pastor<br/>Tu conoces mi camino<br/>Jesús, puedo confiar en ti<br/>Oh mi dios me rindo hoy</lines>
+    </verse>
+  </lyrics>
+</song>

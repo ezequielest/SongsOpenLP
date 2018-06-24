@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:19">
+  <properties>
+    <titles>
+      <title>Cristo no està muerto</title>
+      <title>la tengo</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo no está muerto<br/>El está vivo </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo siento en mis manos<br/>Lo siento en mis pies<br/>Lo siento en todo mi ser</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La tengo, la tengo <br/>La tengo, si, la tengo <br/>La unción esta sobre mi<br/>Gloria a Dios porque la tengo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mira lo que hizo Dios <br/>Mira lo que hizo Dios</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sanó mi cuerpo<br/>Tocó mi mente<br/>Me salvó justo a tiempo</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yo le alabaré<br/>es el mismo de ayer<br/>Juntos le alabaremos<br/>Mira lo que hizo Dios</lines>
+    </verse>
+  </lyrics>
+</song>

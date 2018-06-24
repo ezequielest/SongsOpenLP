@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:35">
+  <properties>
+    <titles>
+      <title>Hay victoria</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hay victoria<br/>Hay victoria en el nombre de Jesús</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No podra el enemigo callar <br/>a nuestras almas</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>hay victoria</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Hay victoria<br/>En el nombre de Jesús</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:15">
+  <properties>
+    <titles>
+      <title>aqui estoy</title>
+      <title>aqui estoy contigo</title>
+    </titles>
+    <authors>
+      <author type="words">zelah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Todo lo que soy, Señor,<br/>siempre ha sido tuyo.<br/>No me quiero alejar,<br/>siempre estarás en mí.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Este mundo pasará,<br/>más Tu Palabra nunca lo hará.<br/>Mientras viva en esta Tierra,<br/>te alabaré, te alabaré</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Aquí estoy, contigo iré,<br/>no dejaré que pase más tiempo.<br/>Aquí estoy, ven, úsame,<br/>mis manos siempre han sido tuyas<br/>y todo lo que soy...</lines>
+    </verse>
+  </lyrics>
+</song>

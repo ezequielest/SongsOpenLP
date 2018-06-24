@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T21:14:50">
+  <properties>
+    <titles>
+      <title>Que se abra el cielo</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>DIOS BIENVENIDO A ESTE LUGAR <br/>Y EN NUESTRO CORAZÓN <br/>VEN Y HAS TU VOLUNTAD</lines>
+    </verse>
+    <verse name="v2">
+      <lines>DIOS TE QUEREMOS CONOCER <br/>CON TU FUEGO ABRAZADOR <br/>VEN Y MUÉVETE OTRA VEZ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ESPÍRITU, AVÍVANOS <br/>TE ANHELAMOS DIOS</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ANTE TU GLORIA Y MAJESTAD <br/>SABEMOS QUE ESTÁS <br/>PARA DARNOS LIBERTAD</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ENTRÓNATE EN NUESTRA ADORACIÓN <br/>ASOMBROSO ERES SEÑOR <br/>CON TU PRESENCIA LLÉNANOS </lines>
+    </verse>
+    <verse name="v6">
+      <lines>QUE SE ABRA EL CIELO <br/>MUÉVETE SEÑOR <br/>VENGA AQUÍ TU REINO <br/>OH GRAN DIOS</lines>
+    </verse>
+    <verse name="c1">
+      <lines>NO HAY CIELO CERRADO SE ABRE <br/>TU REINO SE MUEVE AQUÍ <br/>EN TI ESTÁ NUESTRA ESPERANZA <br/>OH GRAN DIOS, OH GRAN DIOS</lines>
+    </verse>
+  </lyrics>
+</song>

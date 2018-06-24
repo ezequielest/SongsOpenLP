@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:31">
+  <properties>
+    <titles>
+      <title>Festeja Navidad</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿Qué es la navidad un día pregunte?<br/>No supe que en mi corazón estaba la razón.    <br/>¿Dónde está esa verdad que tanto anhele?<br/>Mirando al cielo encontré que alguien me amo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Festeja Navidad, recibe a Jesús            <br/>Él nació pensando en ti, la muestra de amor al fin<br/>Tú eres la razón por la que él nació, el vino hasta ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nació el salvador del mundo en Belén<br/>Su pesebre hoy será tu corazón	         <br/>No le niegues el lugar, déjalo entrar<br/>Vida eterna te dará gozo, amor y paz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Festeja navida aad, recibe a Jesús<br/>Que el regalo del cielo viva en tu corazón <br/>Tú eres la razón por la que ÉL nació.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Festeja Navidad, recibe a Jesús           <br/>Él nació pensando en ti, la muestra de amor al fin<br/>Tú eres la razón por la que él nació, el vino hasta ti.</lines>
+    </verse>
+  </lyrics>
+</song>

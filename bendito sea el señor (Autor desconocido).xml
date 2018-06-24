@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:16">
+  <properties>
+    <titles>
+      <title>bendito sea el señor</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1a">
+      <lines>Dios poderoso<br/>quién fue, quien es y quien vendrá</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Dios poderoso<br/>por siempre reinará</lines>
+    </verse>
+  </lyrics>
+</song>

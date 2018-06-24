@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:54">
+  <properties>
+    <titles>
+      <title>Te darè lo mejor</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v1 v5 v6</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Traemos hoy ante tu altar nuestras coronas <br/>Queremos darte lo mejor de nuestras vidas</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te entregarè mi amor entero <br/>Lo sueños que logre alcanzar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te darè lo mejor de mi vida <br/>Te darè lo mejor cada día</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serà mucho mas que una canciòn <br/>Mi obediencia es mi mejor adoraciòn</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Daremos solo las primicias <br/>Pues tu mereces lo mejor</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te dare lo mejor de mì <br/>Te dare lo mejor</lines>
+    </verse>
+  </lyrics>
+</song>

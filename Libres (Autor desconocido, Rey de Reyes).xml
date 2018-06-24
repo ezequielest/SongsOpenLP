@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:39">
+  <properties>
+    <titles>
+      <title>Libres</title>
+      <title>clamamos libertad</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+      <author>Rey de Reyes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Clamamos libertad de las cadenas<br/>Clamamos libertad para tu pueblo<br/>Clamamos libertad para adorarte a Ti</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Clamamos libertad para tus hijos<br/>Clamamos libertad para cantarte a Ti<br/>Clamamos libertad de toda cadena en la vida</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>//Libre//</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Quiero adorarte hoy más que ayer<br/>Quiero amarte mucho más Señor<br/>Quiero danzar más libremente en Ti/</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Quiero alabarte hoy más que ayer<br/>quiero alzar mis manos mas que ayer<br/>Quiero gritar mucho más fuerte hoy//</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Y quiero de tu amor en mi<br/>Y quiero tu paz en mi ser<br/>Y quiero tu gozo Señor<br/>Señor Señor yo quiero tu gozo</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Libre<br/>Soy libre</lines>
+    </verse>
+  </lyrics>
+</song>

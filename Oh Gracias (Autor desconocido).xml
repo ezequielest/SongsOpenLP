@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:43">
+  <properties>
+    <titles>
+      <title>Oh Gracias</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1a">
+      <lines>Oh tu eres mi alegria<br/>Oh, Gracias<br/>Oh encontre la vida en ti</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>No tengo nada en mis manos que entregarte <br/>mi ofrenda es solamente gratitud <br/>no tengo dinero ni manera para pagarte <br/>la vida en abundancia que <br/>me has dado en plenitud</lines>
+    </verse>
+    <verse name="o1c">
+      <lines>Al entrar aqui con agradecimiento <br/>es tu sangre que me ha dado este lugar <br/>tu amor sobre pasa entendimiento <br/>y expresar mi gratitud <br/>nunca lo podre callar</lines>
+    </verse>
+    <verse name="o1d">
+      <lines>nadie me ha protegido <br/>nadie me ha sostenido <br/>nadie me ha cuidado como tu <br/>es por eso que me rindo <br/>es por eso que me entrego <br/>es por eso que mi vida <br/>pertenece a ti</lines>
+    </verse>
+  </lyrics>
+</song>

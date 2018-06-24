@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:22:00">
+  <properties>
+    <titles>
+      <title>yo danzo como david</title>
+      <title>si el espiritu de Dios</title>
+    </titles>
+    <authors>
+      <author>salvador</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Si el Espíritu de Dios está en mi corazón <br/>Yo danzoo como David </lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>//danzare, danzare<br/>danzare como David// </lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/>//Pónganse de pie y dancen<br/>dancen<br/>//</lines>
+    </verse>
+  </lyrics>
+</song>

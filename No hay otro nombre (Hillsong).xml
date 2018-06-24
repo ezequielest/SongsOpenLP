@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-03-04T12:49:56">
+  <properties>
+    <titles>
+      <title>No hay otro nombre</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu fuiste el verbo en el principio<br/>Unigenito de Dios<br/>El misterio de tu gloria<br/>Revelando en tu amor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuan hermoso su nombre es<br/>El nombre de Jesus mi Rey<br/>cuan hermoso su nombre es<br/>nada se iguala a El<br/>cuan hermoso su nombre es<br/>no hay otro nombre</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dejaste el cielo por salvarme<br/>me viniste a rescatar<br/>mi transgresion tu perdonaste<br/>Nada nos separara</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majestuoso su nombre es<br/>El nombre de Jesus mi Rey<br/>Majestuoso su nombre es<br/>nada se iguala a El<br/>Majestuoso su nombre es<br/>no hay otro nombre</lines>
+    </verse>
+    <verse name="v5">
+      <lines>La muerte venciste<br/>el velo partiste<br/>la tumba vacia ahora esta<br/>los cielos declaran<br/>Tu gloria proclaman<br/>Resucitaste en majestad</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:15">
+  <properties>
+    <titles>
+      <title>aqui estoy</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú eres el principio, <br/>tuya es la eternidad, <br/>Llamaste el mundo a existencia <br/>me acerco a ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moriste por mis fracasos, <br/>llevaste mi culpa en la cruz, <br/>cargaste en tus hombros mi carga, <br/>me acerco a ti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>¿Qué puedo hacer, qué puedo decir? <br/>Te ofrezco mi corazón completamente a ti. <br/>tu salvación camino, tu espíritu vive en mí, <br/>declara en tus promesas, me acerco a ti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>//¿Qué puedo hacer, qué puedo decir? <br/>Te ofrezco mi corazón completamente a ti.// <br/>Aquí estoy, con manos alzadas vengo, <br/>Pues tú todo lo diste por mí. <br/>Aquí estoy, mi alma a ti entrego, <br/>Tuyo soy, Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

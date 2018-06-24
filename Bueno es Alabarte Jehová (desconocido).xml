@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:16">
+  <properties>
+    <titles>
+      <title>Bueno es Alabarte Jehová</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bueno es alabarte Jehová <br/>y cantar salmos a tu nombre</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anunciar por la mañana su misericordia<br/>y su fidelidad de Noche</lines>
+    </verse>
+    <verse name="v3">
+      <lines>¿Quién es el que vive? <br/>Cristo es el que vive<br/>¿Quien es el salva?<br/>Cristo es el que Salva<br/>¿Quien es el viene?<br/>Cristo es el que viene </lines>
+    </verse>
+  </lyrics>
+</song>

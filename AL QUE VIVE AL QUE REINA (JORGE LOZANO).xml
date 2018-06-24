@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:15">
+  <properties>
+    <titles>
+      <title>AL QUE VIVE AL QUE REINA</title>
+    </titles>
+    <authors>
+      <author>JORGE LOZANO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//AL QUE VIVE, AL QUE REINA<br/> SEA LA HONRA ALABANZA//</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>SOLO TU SEÑOR TU ERES MI REY<br/>Y SIEMPRE TE ADORARÉ//<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/>PORQUE TUYO ES EL REINO<br/>TUYA ES LA GLORIA<br/>PORQUE TUYO ES EL PODER <br/>PARA SIEMPRE SEÑOR</lines>
+    </verse>
+  </lyrics>
+</song>

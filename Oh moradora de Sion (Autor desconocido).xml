@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:43">
+  <properties>
+    <titles>
+      <title>Oh moradora de Sion</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1a">
+      <lines>OH MORADORA DE SION<br/> ALABA A JEHOVA<br/>GRANDES SON SUS MARAVILLAS.</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>SOBRE LOS MONTES Y COLLADOS A MI AMADO BUSCARE. <br/>GRANDE ES SU HERMOSURA.</lines>
+    </verse>
+    <verse name="o1c">
+      <lines>Y AL ESTAR EN SU PRESENCIA GOZOSO DANZARE, <br/>AL SEÑOR ALABARE.</lines>
+    </verse>
+    <verse name="o1d">
+      <lines>GRANDE ES JEHOVA <br/>DIGNO DE ALABAR.</lines>
+    </verse>
+    <verse name="o1e">
+      <lines>TU ERES GRANDE JEHOVA <br/>GRANDE ES TU NOMBRE.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-07T12:30:49">
+  <properties>
+    <titles>
+      <title>Hosanna (Marcos Barrientos)</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Levantamos un clamor <br/>por sanidad y redención <br/>muéstranos lo que tu ves <br/>los secretos de tu corazón.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Un pueblo unido pide hoy <br/>tu libertad y salvación <br/>ármanos con tu valor <br/>lo que deseamos es revolución.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que el cielo se parta en dos, inúndanos.<br/>que en el desierto broten ríos,<br/>vida sopla hoy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hosanna al Rey de Salvación<br/>Hosanna al Dios altísimo <br/>Hosanna, Jesucristo<br/>Jesucristo es Rey.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hosanna al Rey.</lines>
+    </verse>
+  </lyrics>
+</song>

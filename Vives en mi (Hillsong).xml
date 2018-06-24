@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:22:00">
+  <properties>
+    <titles>
+      <title>Vives en mi</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+      <author type="music">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al despertar te cantaré<br/>Mis ojos en Ti fijaré<br/>Al ritmo de tu corazón<br/>Caminaré hacia tu amor<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu fuego en mi interior<br/>Ardiendo está<br/>Salvaje amor que brillará<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Esta pasión todos verán<br/>Tu gloria resplandecerá</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Tú nunca me dejarás<br/>tu amor me sostendrá<br/>Junto a mi estarás<br/>Y por siempre brillarás</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu vives en mi, vives en mi<br/>Soy tuyo para siempre</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Por siempre, por siempre, por siempre<br/>en tu amor</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Por siempre, por siempre, por siempre<br/>Yo se que</lines>
+    </verse>
+  </lyrics>
+</song>

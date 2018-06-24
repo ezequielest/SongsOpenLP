@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-11-19T13:56:43">
+  <properties>
+    <titles>
+      <title>Dios nunca para de maravillarme</title>
+    </titles>
+    <authors>
+      <author>new wine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En la mañana y en la noche<br/>el me maravilla</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dios nunca para de maravillarme ////</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-23T22:16:59">
+  <properties>
+    <titles>
+      <title>señor te exalto</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Señor te exalto<br/>Señor te exalto<br/>Señor te exalto<br/>Eres mi Dios//</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Mi protección<br/>Libertador<br/>Mi escudo eres tú<br/>Mi amigo y Rey<br/>El Salvador<br/>Santísimo</lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/>//Tú estás conmigo<br/>Tú estás conmigo<br/>Tú estás conmigo<br/>No temeré//</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-10T13:04:10">
+  <properties>
+    <titles>
+      <title>Somos libres</title>
+    </titles>
+    <authors>
+      <author>En espiritu y en verdad</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somos perdonados<br/>cargamos tu redención<br/>con fuego en el corazón<br/>con fuego en el corazón</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nada nos detiene<br/>vencemos la oscuridad<br/>con fuego en el corazon<br/>con fuego en el corazón</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Somos libres<br/>una generación<br/>que canta tu gracia<br/>Tu eres aquel el que nos movemos<br/>Tuya es la gloria<br/>Hay un fuego que arde en el corazón<br/>Que Nunca se apagara<br/>Somos libres Tuya es la gloria</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Resucitados<br/>vivimos para ti<br/>la pasión no morirá<br/>la pasión no morirá</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nada nos detiene<br/>vencemos la oscuridad<br/>la pasión no morirá<br/>la pasión no morirá</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Resucitaste con poder<br/>Te levantaste<br/>y nos levantamos<br/>Nos levantamos</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hacia el mundo que tu amas<br/>caminaremos y nos levantamos<br/>//Nos levantamos//</lines>
+    </verse>
+  </lyrics>
+</song>

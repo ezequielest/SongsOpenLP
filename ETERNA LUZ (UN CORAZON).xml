@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:31">
+  <properties>
+    <titles>
+      <title>ETERNA LUZ</title>
+      <title>CON UN CORAZON</title>
+    </titles>
+    <authors>
+      <author type="words">UN CORAZON</author>
+      <author type="music">UN CORAZON</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Espíritu de Dios que en toda la creación paseas en esplendor <br/>Espíritu de Dios que a este corazón anhelas con fervor <br/>Toma tu lugar en mi interior, has a Jesucristo mi pasión <br/><br/>Coro: <br/>Hijo de Dios, eterna Luz <br/>tu Gloria es interminable <br/>El Gran yo Soy, el Rey Jesús <br/>Tu Gloria es Inmensurable </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ohhhhhh <br/>Espíritu de Dios que en la tierra estás hablando de la Cruz <br/>Espíritu de Dios que en este lugar nos muestras a Jesús <br/>Toma tu lugar en mi interior, has a Jesucristo mi pasión <br/>Hijo de Dios de eterna Luz <br/>tu Gloria es interminable <br/>El gran yo Soy, el Rey Jesús <br/>Tu Gloria es Inmensurable </lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Jesús, se el centro la Cruz el cimiento de todo lo que soy, ten mi corazón\\\ </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ohhhhhh – Ten mi corazón, Jesús <br/>Jesús hijo de Dios, eterna Luz <br/>tu Gloria es interminable</lines>
+    </verse>
+  </lyrics>
+</song>

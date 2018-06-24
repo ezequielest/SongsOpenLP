@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:53">
+  <properties>
+    <titles>
+      <title>SOMOS EL PUEBLO DE DIOS</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>SOMOS EL PUEBLO DE DIOS, <br/>SOMOS UN PUEBLO ESPECIAL<br/>LLAMADOS PARA ANUNCIAR, <br/>LAS VIRTUDES DE AQUEL, <br/>QUE NOS LLAMÓ A SU LUZ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>SOMOS EL PUEBLO DE DIOS, <br/>SU SANGRE NOS REDIMIÓ<br/>Y SU ESPÍRITU DIO, <br/>PARA DARNOS PODER, <br/>Y SER TESTIGOS DE ÈL</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y LLEVAREMOS SU GLORIA, <br/>A CADA PUEBLO Y NACIÓN,<br/>TRAYÉNDOLES ESPERANZAS, <br/>Y NUEVAS DE SALVACIÓN</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Y SU AMOR NOS IMPULSA, <br/>NO NOS PODEMOS CALLAR,<br/>ANUNCIAREMOS AL MUNDO, <br/>DE SU AMOR Y VERDAD</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:37">
+  <properties>
+    <titles>
+      <title>La niña de tus ojos</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me viste a mi <br/>cuando nadie me vio <br/>Me amaste a mi <br/>cuando nadie me amo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y me diste nombre <br/>yo soy tu niña <br/>la niña de tus ojos <br/>porque me amaste a mi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te amo más que a mi vida</lines>
+    </verse>
+  </lyrics>
+</song>

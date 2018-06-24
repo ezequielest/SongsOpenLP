@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-11-19T12:53:03">
+  <properties>
+    <titles>
+      <title>fuerte como bufalo</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YO HABIA LLORADO TANTO EN MOMENATOS DE TRIBULACION<br/>HABIA PENSADO QUE NO EXISTIRIA UNA SOLUCION<br/>Y PUDE VER QUE ESTABAS JUNTO A MI</lines>
+    </verse>
+    <verse name="v2">
+      <lines>SI ERES CAPAZ DE CREER, DIOS TE AYUDARA<br/>Y VENCERAS, CON CRISTO VENCERAS</lines>
+    </verse>
+    <verse name="v3">
+      <lines>FUERTE COMO BUFALO EN TU NOMBRE SE QUE SOY<br/>YO VOY A VENCER, LA VICTORIA OBTENDRE<br/>FUERTE COMO BUFALO SERE //<br/>TAN FUERTE COMO EL BUFALO</lines>
+    </verse>
+    <verse name="v4">
+      <lines>NO, NO DESMAYES POR LAS P QUE AUN HAN DE PASAR<br/>RECUERDA DIOS ESTA A TU LADO, EL TE PROTEGERA<br/>SU ESPADA AFILADA ESTA, CON CRISTO VENCERAS</lines>
+    </verse>
+  </lyrics>
+</song>

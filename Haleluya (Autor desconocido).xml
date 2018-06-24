@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:34">
+  <properties>
+    <titles>
+      <title>Haleluya</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Padre yo te quiero amar y tocar tu corazón y rendirme a <br/>tus pies oh mi señor , quiero estar cerca de ti y adorarte con <br/>todo mi ser y rendirte toda gloria</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/><br/>Aleluya, Aleluya<br/>Aleluya, Aleluya Aleluya </lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"><br/>Cuando sienta yo caer firme en ti yo estaré pues tu eres mi <br/>refugio oh señor no importa<br/>donde pueda estar en valles de <br/>dificultad te adoraré cantando aleluya<br/><br/><br/><br/>Cuando sienta yo caer firme en ti estaré pues tu eres mi <br/>refugio o señor no importa donde pueda estar en valles de <br/>dificultad te adoraré cantando aleluya<br/>aleluya, aleluya<br/><br/></lines>
+      <lines>ALELUYA, ALELUYA, ALELUYA</lines>
+    </verse>
+  </lyrics>
+</song>

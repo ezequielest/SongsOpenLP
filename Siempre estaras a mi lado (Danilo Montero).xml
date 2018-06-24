@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:51">
+  <properties>
+    <titles>
+      <title>Siempre estaras a mi lado</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siempre estarás a mi lado<br/>Todo tu amor me cubrirás<br/>Mientras yo, tome de tu mano,<br/>Seguro yo voy a estar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Guía mis caminos corrige mis pasos<br/>No quiero fallarte, Señor Jesús<br/>Yo voy alabarte mientras tenga vida<br/>Y cuando se acabe por la eternidad.</lines>
+    </verse>
+  </lyrics>
+</song>

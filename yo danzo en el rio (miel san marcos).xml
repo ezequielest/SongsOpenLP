@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-15T12:13:03">
+  <properties>
+    <titles>
+      <title>yo danzo en el rio</title>
+    </titles>
+    <authors>
+      <author>miel san marcos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Un estruendo de muchas aguas<br/>Se escucha aquí<br/>Trae sanidad, trae libertad<br/>Gozo y salvación</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Es el río del Señor<br/>Que nace de su corazón<br/>Nunca se secará<br/>Y esta ciudad se alegrará.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yo danzo en el río<br/>Yo danzo en el río<br/>En el río de Dios<br/>En el río de Dios</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ríos de vida están brotando<br/>En mi interior, fuente inagotable<br/>Que viene del cielo fluye aquí</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hay vida en el río de Dios<br/>Hay gozo en el río de Dios<br/>Soy libre, libre<br/>El río de Dios está aquí</lines>
+    </verse>
+  </lyrics>
+</song>

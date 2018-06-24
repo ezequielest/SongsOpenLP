@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:49">
+  <properties>
+    <titles>
+      <title>REY DEL CIELO</title>
+      <title>EMMANUEL</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+      <author type="music">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu gloria irrumpió<br/> En medio de nuestro dolor<br/> La oscuridad se disipó</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/> En tu divinidad<br/>  Viniste como un hombre más<br/>Un plan creaste para mí<br/><br/>   </lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Emma-nu-el   Aquí estás<br/>   Emma-nu-el   Aleluya</lines>
+    </verse>
+    <verse name="v4a">
+      <lines> Principio y final<br/> Presente en mi vida estás<br/>Cambiaste todo lo que soy<br/> Mis ojos alzaré</lines>
+    </verse>
+    <verse name="v5">
+      <lines> Mi esperanza eterna es<br/>Un plan creaste para mí</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Emma-nu-el   Aquí estás<br/>Emma-nu-el   Ale-lu-ya<br/>Emma-nu-el   Aquí estás<br/>Emma-nu-el   Ale-lu-ya</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>En silencio<br/> Tu voz susurró<br/> En la noche<br/> Tu luz alumbró<br/> </lines>
+    </verse>
+    <verse name="v4b">
+      <lines>De la muerte<br/> Tu amor me levantó<br/> Rey del cielo<br/> Dios de salvación<br/><br/><br/> Aleluya<br/> El cielo clamará<br/> Canta santo<br/>Por la eternidad<br/><br/><br/> Rey del cielo<br/> Tú conmigo estás<br/> Rey del cielo<br/> Tú conmigo estás<br/><br/>[---]</lines>
+    </verse>
+  </lyrics>
+</song>

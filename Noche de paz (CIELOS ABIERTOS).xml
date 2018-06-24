@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-22T23:41:35">
+  <properties>
+    <titles>
+      <title>Noche de paz</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noche de paz, noche de amor<br/>Todo duerme en derredor<br/>Entre los astros que esparcen su luz<br/>Bella anunciando al niño Jesús<br/>Brilla la estrella de paz<br/>Brilla la estrella de paz</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noche de paz noche de amor<br/>Oye humilde el fiel pastor<br/>Coros celestes que anuncian salud<br/>Gracias y glorias en gran plenitud<br/>Por nuestro buen redentor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Noche de Paz noche de amor<br/>Ved que bello resplandor<br/>Luce en el rostro del niño Jesús<br/>En el pesebre del mundo la luz<br/>Astro de eterno fulgor(bis)</lines>
+    </verse>
+  </lyrics>
+</song>

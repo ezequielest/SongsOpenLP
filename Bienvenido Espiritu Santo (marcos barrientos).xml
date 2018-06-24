@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-03-18T12:59:08">
+  <properties>
+    <titles>
+      <title>Bienvenido Espiritu Santo</title>
+    </titles>
+    <authors>
+      <author>marcos barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Espíritu Santo bienvenido a este lugar<br/>Jesucristo bienvenido a este lugar<br/>Padre omnipotente de gracia y amor, bienvenido a este lugar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bienvenido Espíritu de Dios<br/>Damos gloria sólo a ti, Señor<br/>Bienvenido Espíritu de Dios<br/>Hoy rendimos coronas a tus pies</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Exaltamos Señor<br/>Bienvenido Espíritu Santo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bienvenido Espíritu Santo<br/>Llena este lugar con tu gloria </lines>
+    </verse>
+  </lyrics>
+</song>

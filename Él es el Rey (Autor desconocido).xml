@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-07T17:22:15">
+  <properties>
+    <titles>
+      <title>Él es el Rey</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1a">
+      <lines>Él es el Rey  infito en poder<br/>ÉL es el Rey de los cielos <br/>seré para él siervo fiel <br/>pues mi vida compró con su amor</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Él es el Rey lo confieza mi ser<br/>Él es el Rey de los siglos <br/>mi vida la rindo a sus pies <br/>Él es Rey sobre mi corazón</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>El es el Rey <br/>El es el Rey<br/>El Rey de mi vida</lines>
+    </verse>
+    <verse name="e1d">
+      <lines>El es el Rey <br/>El es el Rey<br/>Reina con autoridad</lines>
+    </verse>
+    <verse name="e1e">
+      <lines>Su reino eterno es <br/>Su trono el cielo es <br/>Él es el Rey que viene su pueblo a buscar</lines>
+    </verse>
+  </lyrics>
+</song>

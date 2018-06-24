@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-07T12:51:47">
+  <properties>
+    <titles>
+      <title>Aleluya al rey</title>
+    </titles>
+    <authors>
+      <author>ICZ</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoy he venido a postrarme<br/>delante de ti mi Dios<br/>Mi corazon se constriñe<br/>al sentir tu gran amor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y yo canto aleluya,<br/>aleluya al gran rey</lines>
+    </verse>
+    <verse name="b1">
+      <lines>///Aleluya///<br/>al gran rey</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:32">
+  <properties>
+    <titles>
+      <title>gloria, aleluya</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria aleluya <br/>Padre del cielo <br/>adorarte quiero <br/>sólo a tí </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dios majestuoso <br/>del universo <br/>adorarte quiero <br/>sólo a tí </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que tu nombre  <br/>sea exaltado eternamente<br/>tú eres el mismo hoy y siempre <br/>a tí doy la gloria sólo a tí </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gloria aleluya <br/>Padre del cielo <br/>adorarte quiero <br/>sólo a tí </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Poderoso  <br/>tuyos son los cielos y la tierra <br/>tuyos son los mares, las estrellas <br/>a ti doy la gloria sólo a tí </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gloria gloria aleluya <br/>gloria gloria aleluya <br/>gloria gloria aleluya </lines>
+    </verse>
+  </lyrics>
+</song>

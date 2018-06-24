@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-03T13:51:21">
+  <properties>
+    <titles>
+      <title>Quebranta mi corazon</title>
+    </titles>
+    <authors>
+      <author>jesus adrian romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo quiero mas de ti <br/>habitar en tu presencia <br/>menguar para que crezcas tu <br/>y cada día seré mas como tu </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quebranta mi corazon quebranta mi vida <br/>te entrego mi voluntad a ti <br/>todo lo que soy Señor todo cuanto tengo es tuyo <br/>yo quiero menguar para que crezcas tu </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Quebranta mi corazon quebranta mi vida <br/>te entrego mi voluntad a ti <br/>todo lo que soy Señor todo cuanto tengo es tuyo <br/>yo quiero menguar para que crezcas tu</lines>
+    </verse>
+  </lyrics>
+</song>

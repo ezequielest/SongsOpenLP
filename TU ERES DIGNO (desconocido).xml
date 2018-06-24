@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:55">
+  <properties>
+    <titles>
+      <title>TU ERES DIGNO</title>
+      <title>NO TENGO NADA</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>NO TENGO NADA PARA OFRECER<br/>NADA QUE TE PUEDA SORPRENDER</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>SOLO UN CORAZÓN QUEBRANTADO<br/>UNA Y OTRA VEZ </lines>
+    </verse>
+    <verse name="v1c">
+      <lines>NO HAY NADA QUE ME ENAMORE MÁS<br/>NADA QUE ME APASIONE MÁS</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>SÓLO TU PRESENCIA<br/>SÓLO TU MIRADA<br/>ME HACE SUSPIRAR</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>ME INCLINO ANTE TI<br/>REY QUE PERDONA MULTITUD DE ERRORES<br/>ME INCLINO ANTE TI</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>DIGNO, ETERNAMENTE DIGNO<br/>IMPRESIONANTE Y DIGNO<br/>SOLO ANTE TI YO ME INCLINO</lines>
+    </verse>
+  </lyrics>
+</song>

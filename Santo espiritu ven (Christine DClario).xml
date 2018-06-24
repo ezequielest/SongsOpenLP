@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:50">
+  <properties>
+    <titles>
+      <title>Santo espiritu ven</title>
+      <title>eres fuego</title>
+    </titles>
+    <authors>
+      <author type="words">Christine DClario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eres fuego en el monte<br/>y agua en desiertos <br/>respiro de vida, a los huesos secos<br/>Señor te pedimos<br/>ven muevete aquì otra vez</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eres fuerza y defensa<br/>ante los enemigos<br/>Maná de los cielos, y aliento vivo <br/>Señor te pedimos, <br/>ven muevete aquí otra vez</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eres mano que sana<br/>y trae esperanza<br/>Renuevo de paz, para el alma cansada<br/>Señor te pedimos<br/>ven muevete aquí otra vez</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Santo espiritu ven muevete </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Lo creemos<br/>Lo creemos<br/>Tu poder todo lo puede hacer<br/>Lo creemos<br/>santo espiritu ven</lines>
+    </verse>
+  </lyrics>
+</song>

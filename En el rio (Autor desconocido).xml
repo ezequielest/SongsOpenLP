@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:27">
+  <properties>
+    <titles>
+      <title>En el rio</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>HAY UN RIO DE GRACIA Y AMOR<br/>HAY UNA FUENTE DONDE<br/>HAY PERDON<br/>HAY UN OCEANO DE GRACIA SIN FIN<br/>ESTA CRECIENDO, ESTA CRECIENDO</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ES AGUA VIVA EN NUESTRO INTERIOR<br/>ESTA FLUYENDO DEL CORAZON DE DIOS<br/>FLUIR DEL CIELO ARRAZANDONOS<br/>ESTA CRECIENDO, ESTA CRECIENDO</lines>
+    </verse>
+    <verse name="p1">
+      <lines>CIELOS ABIERTOS,CIELOS ABIERTOS <br/>PODEMOS SENTIR EN NUESTRO INTERIOR</lines>
+    </verse>
+    <verse name="c1">
+      <lines>VUELVO A VIVIR EN EL RIO///<br/>VIDA ME DAS EN TU RIO</lines>
+    </verse>
+    <verse name="b1">
+      <lines>ABRE PRISIONES HOY<br/>NO HAY MAS ESCLAVITUD<br/>LLENAME HOY, LLENAME HOY<br/>LLENAME HOY DE TI</lines>
+    </verse>
+    <verse name="b2">
+      <lines>HAY GOZO EN MI INTERIOR<br/>DANZAMOS PARA TI</lines>
+    </verse>
+    <verse name="v3">
+      <lines>LLENAME HOY, LLENAME HOY<br/>LLENAME HOY</lines>
+    </verse>
+  </lyrics>
+</song>

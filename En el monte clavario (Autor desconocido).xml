@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:27">
+  <properties>
+    <titles>
+      <title>En el monte clavario</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1a">
+      <lines>En el monte calvario estaba una cruz<br/>Emblema de afrenta y dolor<br/>Mas yo amo esa cruz do murió mi Jesús<br/>Por salvar al más vil pecador</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>¡Oh! Yo siempre amaré esa cruz. <br/>En sus triunfos mi gloria será. <br/>Y algún día en vez de esa cruz, <br/>Mi corona Jesús me dará.</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>Aunque el mundo desprecie la cruz de Jesús, <br/>Para mi tiene suma atracción<br/>Pues en ella llevó el Cordero de Dios<br/>de mi alma la condenación</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Yo seré siempre fiel a la cruz de Jesús, <br/>Sus desprecios con él llevaré</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Y algún día feliz con los santos en luz, <br/>Para siempre su gloria veré</lines>
+    </verse>
+    <verse name="v1">
+      <lines>En la cruz de Jesús do su sangre vertió<br/>Hermosura contemplo sin par.<br/>Pues en ella triunfante a la muerte venció<br/>y mi ser puede santificar</lines>
+    </verse>
+  </lyrics>
+</song>

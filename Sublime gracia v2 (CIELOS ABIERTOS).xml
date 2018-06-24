@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-11-05T14:10:47">
+  <properties>
+    <titles>
+      <title>Sublime gracia v2</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sublime gracia del Señor <br/>Que a mí, pecador salvó <br/>Fui ciego mas hoy veo yo <br/>Perdido y El me halló </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Su gracia me enseñó a temer <br/>Mis dudas ahuyentó <br/>!Oh cuán precioso fue a mi ser <br/>Cuando El me transformó! </lines>
+    </verse>
+    <verse name="v3">
+      <lines>En los peligros o aflicción <br/>Que yo he tenido aquí <br/>Su gracia siempre me libró <br/>Y me guiará feliz </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y cuando en Sión por siglos mil <br/>Brillando este cual sol <br/> Yo cantare por siempre allí <br/>Su amor que me salvó//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>De mi maldad me liberto <br/>mi Salvador me rescato <br/>Y como el mar fluye su amor<br/>sublime gracia y amor</lines>
+    </verse>
+  </lyrics>
+</song>

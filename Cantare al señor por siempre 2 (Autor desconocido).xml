@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:17">
+  <properties>
+    <titles>
+      <title>Cantare al señor por siempre 2</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Cantare al Señor por siempre<br/>su diestra es todo poder</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hecho a la mar, quien los perseguía <br/>jinete y caballo hecho a la mar</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Hecho a la mar, los carros del faraón</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Mi padre es Dios y yo le exalto<br/>Mi padre es Dios y le exaltare</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:46">
+  <properties>
+    <titles>
+      <title>Por quien eres tú</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por quien eres tú <br/>te doy la gloria<br/>Por quién eres tú <br/>te doy honor<br/>Por quién eres tú <br/>hoy levantaré mi voz<br/>y te adoraré por quien eres Señor </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jehová Shire mi proveedor <br/>Jehová Nissi, Tu peleas por mi <br/>Jehová Shalom, Principe de paz <br/>Te adoraré por quien eres Señor </lines>
+    </verse>
+  </lyrics>
+</song>

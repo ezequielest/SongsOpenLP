@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:51">
+  <properties>
+    <titles>
+      <title>Santo santo santo (himno)</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Santo, santo, santo Señor omnipotente<br/>Siempre el labio mìo loores te darà<br/>Santo, santo, santo te adoro reverente</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dios en tres personas, bendita trinidad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Santo, santo, santo en numeroso coro<br/>Santos escogidosnte adoran con fervor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De alegrìa llenos, y sus coronas de oro<br/>rinden ante el trono glorioso del Señor</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Santo, santo, santo la inmensa muchedumbre</lines>
+    </verse>
+    <verse name="v6">
+      <lines>De àngeles que cumplen tu santa voluntad,<br/>Ante ti se postra bañada con tu lumbre,<br/>ante ti que has sido, que eres y seràs</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Santo, santo, santo por màs que estès velado,</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>Santo tù eres sòlo y nada hay a tu lado<br/>en poder perfecto, pureza y calidad</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Santo, santo, santo la gloria de tu nombre,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Vemos en tus obras en cielo, tierra y mar</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Santo, santo, santo te adorarà todo hombre<br/>Dios en tres personas bendita trinidad</lines>
+    </verse>
+  </lyrics>
+</song>

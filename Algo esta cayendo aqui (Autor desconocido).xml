@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:14">
+  <properties>
+    <titles>
+      <title>Algo esta cayendo aqui</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Algo está cayendo aquí,<br/>es tan fuerte sobre mí,<br/>mis manos levantaré <br/>y tu gloria tocaré</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Está cayendo<br/>tu gloria sobre mí,<br/>sanando heridas, <br/>levantando al caído<br/>Su gloria está aquí</lines>
+    </verse>
+  </lyrics>
+</song>

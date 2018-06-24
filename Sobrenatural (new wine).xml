@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-02-24T23:23:31">
+  <properties>
+    <titles>
+      <title>Sobrenatural</title>
+    </titles>
+    <authors>
+      <author>new wine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> <br/>Nada se puede comparar <br/>a este gran amor <br/>que fuiste a derramar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu amor es sobrenatural <br/>no tiene condicion <br/>no tiene final</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No hay nada en esta tierra que sea igual <br/>no hay nada que con Él se pueda comparar <br/>con su amor</lines>
+    </verse>
+  </lyrics>
+</song>

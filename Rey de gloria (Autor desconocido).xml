@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:49">
+  <properties>
+    <titles>
+      <title>Rey de gloria</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Le vanto mis manos <br/>te quiero adorar<br/>tu rostro quiero ver<br/>te quiero adorar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>tu eres santo<br/>tu eres digno</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo adoro al rey<br/>yo adoro al rey<br/>yo adoro al rey<br/>al rey de gloria</lines>
+    </verse>
+    <verse name="o1">
+      <lines>tu gloria llena la tierra</lines>
+    </verse>
+  </lyrics>
+</song>

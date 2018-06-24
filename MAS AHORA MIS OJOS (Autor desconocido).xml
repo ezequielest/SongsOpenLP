@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:40">
+  <properties>
+    <titles>
+      <title>MAS AHORA MIS OJOS</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>CONOZCO QUE TODO LO PUEDES <br/>QUE MI PENSAMIENTO <br/>NO LO PUEDO ESCONDER <br/>HABLABA LO QUE NO ENTENDÍA <br/>Y DE OÍDAS TE HABÍA OÍDO </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>MAS AHORA MIS OJOS TE VEN <br/>YO TE PREGUNTARÉ, Y TU ME ENSEÑARÁS <br/>MAS AHORA MIS OJOS TE VEN <br/>YO ME RINDO A TUS PIES, Y ME ARREPIENTO <br/>SEÑOR</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:23">
+  <properties>
+    <titles>
+      <title>Dios de mi fortaleza</title>
+    </titles>
+    <authors>
+      <author>selah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ME GUARDAS, ME CUIDAS<br/>SUSTENTAS MI VIDA<br/>EN TUS BRAZOS ME SOSTIENES<br/>EN TUS BRAZOS ME SOSTIENES</lines>
+    </verse>
+    <verse name="v2">
+      <lines>NO TEMERE, ERES MI ESCUDO Y MI PROTECCION<br/>NO TEMERE, CUIDAS DE MI, CUIDAS DE MI<br/>NO TEMERE, ERES MI ESCUDO Y MI PROTECCION<br/>NO TEMERE, NO TEMERE</lines>
+    </verse>
+    <verse name="c1">
+      <lines>DIOS DE MI FORTALEZA<br/>DIOS DE MI SALVACION<br/>MI ALTO REFUGIO<br/>MI CONFIANZA ESTA EN TI</lines>
+    </verse>
+  </lyrics>
+</song>

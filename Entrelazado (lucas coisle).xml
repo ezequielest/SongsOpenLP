@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-03-18T13:26:03">
+  <properties>
+    <titles>
+      <title>Entrelazado</title>
+    </titles>
+    <authors>
+      <author>lucas coisle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abrazados, por tu gracia y tu amor<br/>Perdonados, por tu obra en la cruz</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Somos libres, ya no hay condenación<br/>Transformados por tu infinito amor</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Y no podemos escapar de ti<br/>Si mi corazón está<br/>Entrelazado a tu corazón señor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>En ti encuentro amor<br/>En ti encuentro paz<br/>En ti encuentro todo lo que el mundo no me puede dar</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No me moveré de ti, señor</lines>
+    </verse>
+  </lyrics>
+</song>

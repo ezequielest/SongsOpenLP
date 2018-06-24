@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-15T13:04:04">
+  <properties>
+    <titles>
+      <title>Dios de lo imposible</title>
+    </titles>
+    <authors>
+      <author>Christine DClario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesucristo reinas con poder<br/>Soberano victorioso rey<br/>Ni la muerte pudo detener<br/>Tu poder para vencer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dios de lo imposible te adoramos<br/>Eres invensible soberano<br/>Tuya es toda la gloria<br/>Tuyo es todo el honor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al unico digno al unico digno!<br/>Al cordero inmolado<br/>Que rompio el poder el poder de la muerte<br/>Que rompio las cadenas de maldad</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por no habia forma de que el sepulcro<br/>Lo retuviera no no!<br/>No habia manera de que las ataduras lo detuvieran no!<br/>Cuaando muchos piensan que todo termino</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Que no hay remedio<br/>Que no hay camino<br/>Que nadie puede abrir la puerta de la carcel<br/>Yo te digo yo soy el dios de lo imposible!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:15">
+  <properties>
+    <titles>
+      <title>Alza tus ojos y mira</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alza tus ojos y mira <br/>la cosecha està lista <br/>el tiempo a llegado <br/>la mies se està madura</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>levàntate y predica <br/>a todas las naciones <br/>que Cristo es la vida</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Y serà llena la tierra de su gloria<br/> se cubrirà como las aves cubren la mar</lines>
+    </verse>
+  </lyrics>
+</song>

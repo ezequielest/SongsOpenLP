@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:24">
+  <properties>
+    <titles>
+      <title>dios SEA EXALTADO</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>DIOS SE HA EXALTADO SUS ENEMIGOS <br/>SEAN ESPARCIDOS</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>VENCIENDO EN EL REINO DE LAS TINIEBLAS CON ALABANZA</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>SUBIRE A LAS MONTAÑAS <br/>GRITARE A LAS NACIONES</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>QUE EL REINO DE LAS TINIEBLAS <br/>SE ESTA CAYENDO</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>SE ESTA CAYENDO</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>YA SE CAYÒ</lines>
+    </verse>
+  </lyrics>
+</song>

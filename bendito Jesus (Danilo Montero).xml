@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-03-11T13:10:32">
+  <properties>
+    <titles>
+      <title>bendito Jesus</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por ti es mi clamor y sin ningun temor <br/>en ti puedo confiar, bendito Jesús <br/>Hoy puedo escuchar tu voz de sanidad <br/>Restaurando mi ser, bendito Jesús </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mi deseo eres tú, mi momento de amor <br/>La alegria de vivir, bendito Jesús </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eres mi fuente de amor, eres aire y eres sol <br/>El latir del corazón, bendito Jesús </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bendito amor de mi señor </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu gracia y favor conmigo puedo ver <br/>llenando hoy me ser, bendito Jesús <br/>Y hoy mi voluntad se rinde a tu verdad <br/>tu amor y tu bondad, bendito Jesús </lines>
+    </verse>
+  </lyrics>
+</song>

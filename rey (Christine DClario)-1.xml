@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-15T12:24:58">
+  <properties>
+    <titles>
+      <title>rey</title>
+      <title>en tu presencia danzamos</title>
+    </titles>
+    <authors>
+      <author>Christine DClario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En tu presencia<br/>Danzamos libres<br/>Cubrenos con tu luz de amor<br/>Llévanos mucho mas profundo<br/>Pues somos hijos del Gran Yo Soy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Dios, siempre con nosotros<br/>Susurrando restauración<br/>Has de nuestro ser tu morada<br/>Tuyos somos</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu iglesia clama hoy<br/>Abre los cielos<br/>Con poder<br/>Enaltecido eres Dios<br/>Rompe tinieblas. Brilla en gloria</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Oh, oh, oh<br/>Oh, oh, oh<br/>Oh, oh, oh</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tu eres Rey<br/>Por siempre Rey<br/>Sobre la creación<br/>Tu eres Rey </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:38">
+  <properties>
+    <titles>
+      <title>Levántate y sálvame</title>
+    </titles>
+    <verseOrder>v1 v2 p1 p1</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aunque un ejército ataque contra mi <br/>No temeré <br/>Aunque haya guerra hoy alrededor de mi <br/>En Tí confiaré</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No temeré a diez mil gentes <br/>Que hagan sitio contra mi <br/>Aunque la Tierra se estremezca <br/>Mi Salvación está en Tí</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Tú eres mi gloria y quien levanta mi cabeza</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Aunque afligido esté, Tú pensarás en mi <br/>No temeré <br/>Aunque mi corazón estremecido esté <br/>En Tí confiaré</lines>
+    </verse>
+    <verse name="p1c">
+      <lines>No temeré a ningún hombre <br/>Que se junte contra mi <br/>Tu eres mi Dios, mi fortaleza <br/>Mi Salvacion esta en Tí</lines>
+    </verse>
+    <verse name="p1d">
+      <lines>Levántate y sálvame, levántate y sálvame... (x3)</lines>
+    </verse>
+  </lyrics>
+</song>

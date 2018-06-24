@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-02-24T18:21:40">
+  <properties>
+    <titles>
+      <title>rey</title>
+    </titles>
+    <authors>
+      <author>Christine DClario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh perfecto inigualable Dios <br/>amor inexplicable <br/>rey inigualable. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Asombroso coronado estas <br/>en tu trono de victoria <br/>vestido estas de gloria. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por los siglos de los siglos <br/>tu reino se establecerá <br/>digno de gloria, digno de honor <br/>digno de toda adoración. </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu eres rey <br/>Tu eres rey <br/>Tu eres rey</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh perfecto inigualable Dios <br/>amor inexplicable <br/>tu reino incomparable. </lines>
+    </verse>
+    <verse name="c3">
+      <lines>Asombroso coronado estas <br/>en tu trono de victoria <br/>vestido estas de gloria. </lines>
+    </verse>
+    <verse name="b1">
+      <lines>hoy perfumamos tu trono <br/>hoy perfumamos tu trono <br/>hoy perfumamos tu trono <br/>recibe alabanza </lines>
+    </verse>
+  </lyrics>
+</song>

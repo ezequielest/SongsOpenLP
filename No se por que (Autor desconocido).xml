@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:43">
+  <properties>
+    <titles>
+      <title>No se por que</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No sé por qué Señor tu me tocaste<br/>no sé por qué en mí tú te fijaste<br/>pero si sé que grande es tu amor por mí</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi corazón está agradecido<br/>mi corazón está aquí rendido<br/>contigo siempre quiero Señor estar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Porque fuera de ti<br/>nada deseo en la tierra<br/>tu presencia es más hermosa<br/>que cualquier cosa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tú eres Señor mi gozo y mi alegría<br/>tú estás Señor conmigo todo el día<br/>y en ti oh siempre quiero Señor estar</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Me has librado de la muerte<br/>me has dado nueva vida<br/>me sacaste mis tristezas<br/>me ceñiste de alegría</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Por tanto nunca callaré<br/>a ti cantaré<br/>te alabaré<br/>gloria mía</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Cristo mi Señor<br/>a ti cantaré<br/>te alabaré<br/>gloria mía</lines>
+    </verse>
+  </lyrics>
+</song>

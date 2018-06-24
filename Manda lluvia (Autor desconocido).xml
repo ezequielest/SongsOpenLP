@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:40">
+  <properties>
+    <titles>
+      <title>Manda lluvia</title>
+      <title>desciende desciende</title>
+    </titles>
+    <authors>
+      <author type="translation">Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Vengo ante ti<br/>con el corazón rendido a tus pies <br/>con mi vida entregada para ser, tuyo Dios</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y te clamaré <br/>por un fuego que llueva sobre mí <br/>por un deseo que transforme mi interior <br/>en traerte honor </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Desciende, desciende, desciende<br/>sobre mí<br/>Desciende, desciende, desciende<br/>hoy aquí</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Creo en el Poder <br/>cuando te clamo en oración <br/>para ofrecerte todo mi amor,en adoración </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Y te clamaré<br/>que sobre toda mi generación<br/>arda este deseo y pasión<br/>en traerte honor</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Manda lluvia<br/>temprana y tardía<br/>que llene hoy mi vida<br/>con pasión</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:18">
+  <properties>
+    <titles>
+      <title>Como el ciervo</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>COMO EL CIERVO BUSCA POR LAS AGUAS,<br/>ASI CLAMA MI ALMA POR TI SEÑOR.<br/>DIA Y NOCHE YO TENGO SED DE TI, <br/>Y SOLO A TI BUSCARE</lines>
+    </verse>
+    <verse name="c1">
+      <lines>LLENAME,<br/>LLENAME SEÑOR,<br/>DAME MAS,<br/>MAS DE TU AMOR<br/>YO TENGO SED SOLO DE TI, LLENAME SEÑOR</lines>
+    </verse>
+  </lyrics>
+</song>

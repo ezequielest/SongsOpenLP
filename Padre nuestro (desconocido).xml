@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-29T13:17:56">
+  <properties>
+    <titles>
+      <title>Padre nuestro</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>PADRE NUESTRO DEL CIELO <br/>TU NOMBRE SANTO ES </lines>
+    </verse>
+    <verse name="v2">
+      <lines>QUE TU REINO VENGA PRONTO <br/>Y TU VOLUNTAD TAMBIÉN </lines>
+    </verse>
+    <verse name="c1">
+      <lines>//AQUÍ COMO EN EL CIELO <br/>QUE EL CIELO VENGA AQUÍ // </lines>
+    </verse>
+    <verse name="b1">
+      <lines>TUYO ES EL REINO <br/>TUYO ES EL PODER <br/>TUYA ES LA GLORIA POR SIEMPRE <br/>AMÉN.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>EL CIELOS AQUI</lines>
+    </verse>
+  </lyrics>
+</song>

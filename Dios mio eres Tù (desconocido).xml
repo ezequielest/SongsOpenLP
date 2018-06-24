@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:24">
+  <properties>
+    <titles>
+      <title>Dios mio eres Tù</title>
+      <title>De madrugada tu buscaré</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dios, Dios mio eres tú<br/>De madrugada te buscaré </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Y mi alma tiene sed de ti <br/>y mi carne te anhela <br/>en tierra seca y árida donde aguas no hay.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:46">
+  <properties>
+    <titles>
+      <title>Por siempre te alabaré</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Eres Dios<br/>Te levantamos hoy<br/>Cantaremos, alabaremos<br/>Y jamás nada nos detendrá<br/>Eres digno de toda gloria</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Oh no hay como Tu Dios<br/>Reinas por siempre<br/>Sobre todo Señor<br/>//Nadie como Tu//</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>A Ti por siempre te alabaré<br/>Día y noche gloria yo te daré<br/>Por siempre te alabaré</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amor sin fin<br/>Luz antes que el sol<br/>Tu gloria es eterna<br/>Sin parar, no terminará<br/>La creación hoy te canta</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Te levantamos<br/>Te damos nuestro amor<br/>Por todo lo que haces Dios<br/>La gloria te daré</lines>
+    </verse>
+  </lyrics>
+</song>

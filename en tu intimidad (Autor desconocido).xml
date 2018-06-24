@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:28">
+  <properties>
+    <titles>
+      <title>en tu intimidad</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero conquistar tu corazón <br/>Quiero estar en tu habitación <br/>Abre las puertas del cielo <br/>Quiero entrar en tu intimidad <br/>Jesús</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tus ojos en mis ojos <br/>Me veo en tu mirada <br/>Tu voz en mis oidos <br/>diciendo que me amas <br/>Tus manos en mis manos <br/>Llévame a danzar en tu intimidad <br/>Jesús</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nada importa más <br/>cuando estoy en tus brazos <br/>Nada importa más <br/>que tu amistad</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nada importa más <br/>cuando llego aquí <br/>en tu intimidad Jesús</lines>
+    </verse>
+  </lyrics>
+</song>

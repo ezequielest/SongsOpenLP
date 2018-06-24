@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-08-06T10:45:44">
+  <properties>
+    <titles>
+      <title>mi Dios es grande</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi Dios es grande y fuerte,<br/>y su palabra vence,<br/>Sus enemigos tiemblan<br/>Y huyen ante Él.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesucristo es el Señor mi Rey<br/>En su nombre hay,<br/>Hay poder para vencer.</lines>
+    </verse>
+  </lyrics>
+</song>

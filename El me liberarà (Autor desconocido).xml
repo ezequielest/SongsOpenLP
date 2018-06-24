@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:25">
+  <properties>
+    <titles>
+      <title>El me liberarà</title>
+      <title>su oido no es sordo</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>El me liberara<br/>El me liberara<br/>El calma la tempestad<br/>El me liberara<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Su oido no es sordo el puedo oir<br/>Es Dios de poder no debemos temer<br/>Su brazo no es corto el salvara<br/>Yo se que me levanta a un alto lugar</lines>
+    </verse>
+  </lyrics>
+</song>

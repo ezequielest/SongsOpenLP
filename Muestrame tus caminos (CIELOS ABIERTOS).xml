@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:42">
+  <properties>
+    <titles>
+      <title>Muestrame tus caminos</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Muéstrame<br/>tus caminos, oh, Señor<br/>y enséñame<br/>tus sendas, mi Señor<br/>Encaminame en tu verdad y enséñame<br/>porque Tú eres el Dios de mi salvación</lines>
+    </verse>
+    <verse name="c1">
+      <lines>En ti,he esperado<br/>En ti,esperaré<br/>todo el día y cada noche,<br/>muy temprano en la mañana,<br/>enséñame<br/>a esperar en ti<br/>en ti, Señor</lines>
+    </verse>
+  </lyrics>
+</song>

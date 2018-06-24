@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:37">
+  <properties>
+    <titles>
+      <title>Lagrimas de los santos</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1">
+      <lines>Por las calles de la ciudad<br/>veo plena necesidad, fracaso,<br/>destrucción en el hogar,<br/>gente que sin esperanza está</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Es la gran urgencia hoy</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Santos hay en dolor<br/>por el que está sin Dios<br/>rogando por su salvación<br/>llorando por su salvación</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>Nuestras manos es entregar<br/>con amor ayudarán<br/>para darles un hogar</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>Odio hay en las escuelas<br/>con pavor en las iglesias<br/>no hay clemencia</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Oh Señor que al ver las almas<br/>pueda ir, llevar tu gracia<br/>darte lugar</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>Es la gran vivencia hoy//</lines>
+    </verse>
+    <verse name="o1c">
+      <lines>Las manos de salvación extiende al pecador//</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:58">
+  <properties>
+    <titles>
+      <title>ven a este lugar</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú que estás sentado sobre querubines <br/>Tú que estás en tú trono, en medio de serafines <br/>Tú que eres aclamado por ángeles <br/>Ven a este lugar. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tú que estás sentado sobre un trono de gloria <br/>Tú que estás en el trono, de la alabanza de tú pueblo <br/>Tú que eres aclamado por tú iglesia <br/>Ven a este lugar. </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ven a este lugar <br/>Ven a este lugar <br/>Ven a este lugar <br/>Llena hoy mí vida señor. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tú que estás sentado sobre un trono de gloria <br/>Tú que estás en el trono, de la alabanza de tú pueblo <br/>Tú que eres aclamado por tú iglesia <br/>Ven a este lugar. </lines>
+    </verse>
+  </lyrics>
+</song>

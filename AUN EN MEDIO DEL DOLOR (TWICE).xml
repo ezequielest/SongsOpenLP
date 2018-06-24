@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:16">
+  <properties>
+    <titles>
+      <title>AUN EN MEDIO DEL DOLOR</title>
+      <title>TEN MI CORAZON</title>
+    </titles>
+    <authors>
+      <author type="words">TWICE</author>
+      <author type="music">TWICE</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ten mi corazón<br/>Ten mi débil ser<br/>Lávame en tu amor<br/>Con tu gracia ven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aunque no haya fuerza en mí<br/>Te alabo<br/>Aun cuando no tenga voz<br/>Te alabo<br/>Aun cuando no entienda el porqué<br/>Aún más fuerte cantaré</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu alabanza cantaré<br/>Tu alabanza cantaré<br/>Tu alabanza cantaré</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Todo mi pesar<br/>Llanto y temor<br/>Tómalo Señor<br/>Tú me sostendrás</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aun en la batalla yo<br/>Te alabo<br/>Aun en medio del dolor<br/>Te alabo<br/>Aunque en un infierno sienta estar<br/>Aún más fuerte cantaré</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tu alabanza cantaré<br/>Tu alabanza cantaré<br/>Tu alabanza cantaré</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mi alma arde sólo por ti<br/>Eres tú mi deseo, Dios<br/>Mi alma espera solo en ti<br/>Cantaré hasta el amanecer</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mi alma arde sólo por ti<br/>Eres tú mi deseo, Dios<br/>Mi alma espera solo en ti<br/>Cantaré mi milagro veré</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Tu alabanza cantaré<br/>Tu alabanza cantaré<br/>Tu alabanza cantaré</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Cuando la mañana al fin<br/>Alumbre<br/>Cuando la victoria en ti<br/>Alcance</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Cuando este mundo deje atrás<br/>Aun más fuerte cantare</lines>
+    </verse>
+  </lyrics>
+</song>

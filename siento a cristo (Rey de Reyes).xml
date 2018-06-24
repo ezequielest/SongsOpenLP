@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:51">
+  <properties>
+    <titles>
+      <title>siento a cristo</title>
+    </titles>
+    <authors>
+      <author type="words">Rey de Reyes</author>
+      <author type="music">Rey de Reyes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siento a Cristo <br/>Siento a Cristo <br/>Siento a Cristo <br/>En este lugar </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Ya mi alma esta ardiendo<br/>Siento a Cristo en este lugar </lines>
+    </verse>
+  </lyrics>
+</song>

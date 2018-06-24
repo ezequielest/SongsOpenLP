@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:44">
+  <properties>
+    <titles>
+      <title>Perdonados</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No olvidaremos <br/>anunciaremos <br/>las maravillas que has hecho en nuestras vidas <br/>proclamaremos a las naciones <br/>declararemos tu soberano amor </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Perdonados de todo mal<br/>justificados nos diste de tu paz <br/>perdonados no hay mas condenación <br/>Jesucristo tu nos diste salvación</lines>
+    </verse>
+    <verse name="v2">
+      <lines>recordaremos <br/>publicaremos <br/>las misericordias que hiciste en nuestras vidas</lines>
+    </verse>
+    <verse name="v3">
+      <lines>lo cantaremos a las multitudes <br/>les gritaremos que no hay otro como tu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>gracias señor <br/>nos diste tu salvación</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:22:00">
+  <properties>
+    <titles>
+      <title>yo creo</title>
+      <title>eres lo que yo quiero</title>
+    </titles>
+    <authors>
+      <author type="words">zelah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eres lo que yo quiero,<br/>eres lo que deseo<br/>si te busco,<br/>se que te puedo hallar</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Aunque te he dejado,<br/>aunque te he fallado,<br/>si me acerco,<br/>se que me aceptarás</lines>
+    </verse>
+    <verse name="p1">
+      <lines><br/>No importa, Dios,<br/>que no pueda verte, no<br/>Tú estás, por siempre<br/>a mi lado...</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Yo creo, en tí Dios yo creo,</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/><br/>Yo creo, en tí Dios, yo creo<br/>En tu amor yo creo<br/>Creo que tu palabra cumplirás<br/>Creo que en mí harás tu voluntad</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:21">
+  <properties>
+    <titles>
+      <title>de cristo cada dia</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De Cristo cada día, quiero yo más cerca estar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Él es mi Rey amado y precioso Salvador<br/>no puedo en todo el mundo amigo cual Jesús hallar<br/>que maravillas hace y prodigios sin igual.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jamás podrán contarme, de Cristo la amistad<br/>de su amor divino su poder y majestad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yo miro cerca el día del regreso del Señor<br/>y yo con muchos santos al encuentro sin igual</lines>
+    </verse>
+    <verse name="i1a">
+      <lines>a Cristo Rey de gloria cuyo reino es inmortal.</lines>
+    </verse>
+    <verse name="i1b">
+      <lines>Y cuando estemos salvos en su reino celestial<br/>jamás nos cansaremos de servir al Salvador</lines>
+    </verse>
+    <verse name="i1c">
+      <lines>glorioso alzaremos nuestro cántico triunfal<br/>y de arpas miles ecos subirán en su loor.</lines>
+    </verse>
+  </lyrics>
+</song>

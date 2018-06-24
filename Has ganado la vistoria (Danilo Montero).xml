@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:34">
+  <properties>
+    <titles>
+      <title>Has ganado la vistoria</title>
+      <title>has ganado la victoria para mi</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Has ganado la victoria<br/>la victoria para mi<br/>al pecado has vencido<br/>has ganado la batalla por mi<br/><br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Porque tu eres mi Dios en los cielos<br/>porque tu eres mi Dios en la tiera<br/>pu eres mi Dios<br/>te alabare</lines>
+    </verse>
+  </lyrics>
+</song>

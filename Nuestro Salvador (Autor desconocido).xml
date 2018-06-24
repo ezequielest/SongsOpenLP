@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:43">
+  <properties>
+    <titles>
+      <title>Nuestro Salvador</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Majestad, gloria a nuestro rey <br/>Su poder infinito es <br/>Salvador, tenemos libertad <br/>El nos perdonó</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>Por amor el nos rescató <br/>Salvador, tenemos libertad <br/>El nos perdonó</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Te adoramos, te exaltamos Rey <br/>Honra y gloria sean dadas <br/>Al cordero de Dios</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>Alto y sublime <br/>Eres el Señor <br/>Poderoso, invencible <br/>Incomparable eres oh Rey</lines>
+    </verse>
+    <verse name="e1d">
+      <lines>Nuestro Salvador <br/>Reinas con justicia <br/>Reinas con poder <br/>Eres Dios de nuestra vida <br/>Somos fruto de tu amor <br/>Nuestro Salvador</lines>
+    </verse>
+  </lyrics>
+</song>

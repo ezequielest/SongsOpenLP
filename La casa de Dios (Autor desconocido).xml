@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:37">
+  <properties>
+    <titles>
+      <title>La casa de Dios</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MEJOR ES UN DIA<br/>EN LA CASA DE DIOS<br/>QUE MIL AÑOS LEJOS DE EL</lines>
+    </verse>
+    <verse name="v2">
+      <lines>PREFIERO UN RINCON EN LA CASA DE DIOS<br/>QUE TODO EL PALACIO DE UN REY<br/>QUE TODO EL PALACIO DE UN REY</lines>
+    </verse>
+    <verse name="c1">
+      <lines>VEN CONMIGO A LA CASA DE DIOS <br/>CELEBRAREMOS JUNTOS SU AMOR<br/>HAREMOS FIESTA EN HONOR DE AQUEL QUE NOS AMO</lines>
+    </verse>
+    <verse name="c2">
+      <lines>ESTANDO AQUI EN LA CASA DE DIOS<br/>ALEGRAREMOS SU CORAZON<br/>LE BRINDAREMOS OFRENDAS <br/>DE OBEDIENCIA Y AMOR</lines>
+    </verse>
+    <verse name="c3">
+      <lines>//EN LA CASA DE DIOS//</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ARDE MI ALMA<br/>ARDE DE AMOR <br/>POR AQUEL QUE ME DIO LA VIDA</lines>
+    </verse>
+    <verse name="v4">
+      <lines>POR ESO LE ANHELA MI CORAZON<br/>ANHELA DE SU COMPAÑIA<br/>ANHELA DE SU COMPAÑIA</lines>
+    </verse>
+  </lyrics>
+</song>

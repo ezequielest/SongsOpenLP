@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-11-26T13:56:22">
+  <properties>
+    <titles>
+      <title>Sea la luz</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>OH OH OH</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sea la luz, en este lugar<br/>sea la luz y todo se ordena<br/>sea la luz hágase tu voluntad</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesucristo//<br/>la luz del mundo //<br/>sol de justicia //<br/>brilla aqui //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eres la luz que alumbra mi vida<br/>eres la luz que al mundo ilumina<br/>eres la luz yo amo hacer tu voluntad</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T21:14:12">
+  <properties>
+    <titles>
+      <title>Un encuentro</title>
+    </titles>
+    <authors>
+      <author>new wine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo quiero ser uno contigo y compartir<br/>en comunión en el lugar santísimo </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Necesito un encuentro con el Dios<br/>vivo estar en tu presencia y decir aquí estoy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Necesito un encuentro con el Dios vivo<br/> y estar cara a cara con el gran yo soy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Con el gran yo soy </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nada nunca me saciará como tú lo haces<br/>en un encuentro sobrenatural todo fluye de tu trono </lines>
+    </verse>
+    <verse name="b2">
+      <lines>Cantamos a tu majestad</lines>
+    </verse>
+  </lyrics>
+</song>

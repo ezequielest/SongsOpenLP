@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:22:00">
+  <properties>
+    <titles>
+      <title>vine a adorararte</title>
+    </titles>
+    <authors>
+      <author type="translation">vine a adorarte</author>
+      <author>vine a adorarte</author>
+      <author>gandara</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú eres la luz <br/>Que brillo en las tinieblas <br/>Abrió mis ojos pude ver <br/>Mi corazón adora tu hermosura <br/>Esperanza de mi vida eres tú </lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Vengo a adorarte <br/>Vengo a postrarme <br/>Vengo a decir que eres mi DIOS </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Solo tú eres grande <br/>Solo tú eres digno <br/>Eres asombroso para mi // </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nunca sabré cuanto costo,<br/>Ver mi pecado en la cruz.</lines>
+    </verse>
+  </lyrics>
+</song>

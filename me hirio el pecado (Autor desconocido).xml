@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:40">
+  <properties>
+    <titles>
+      <title>me hirio el pecado</title>
+      <title>en la cruz</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me hirió el pecado, Fui a Jesús <br/>Mostréle mi dolor <br/>Perdido errante vi su luz <br/>Bendíjome su amor </lines>
+    </verse>
+    <verse name="c1">
+      <lines>En la cruz, en la cruz do primero <br/>vi la luz <br/>Y las manchas de mi alma lavé </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Fue allí por fe do vi a Jesús <br/>Y siempre feliz con El seré</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sobre una cruz mi buen Señor <br/>su sangre derramo<br/>por este pobre pecador a quien <br/>asi salvo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Venció la muerte con poder <br/>Y al cielo se exaltó <br/>Confiar en El es mi placer <br/>Morir no temo yo </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aunque El se fue solo no estoy <br/>Mandó el Consolador <br/>Divino Espíritu que hoy <br/>Me da perfecto amor </lines>
+    </verse>
+    <verse name="v5">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

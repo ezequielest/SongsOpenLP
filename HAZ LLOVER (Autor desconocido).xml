@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:35">
+  <properties>
+    <titles>
+      <title>HAZ LLOVER</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>HAZ LLOVER//<br/>ABRE LAS PUERTAS<br/> DEL CIELO</lines>
+    </verse>
+    <verse name="v2">
+      <lines>TU PUEBLO DESESPERADO ESTA<br/>PARA VER TU  GLORIA<br/> UNA VEZ MÁS<br/>TE PEDIMOS HOY<br/> QUE DESCIENDAS</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>ES EL CLAMOR DE <br/>NUESTRO CORAZÓN<br/>QUE ESTA PIDIENDO<br/> MÁS DE TU UNCIÓN<br/>TE PEDIMOS<br/> QUE HAGAS LLOVER..</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>HAZ LLOVER SEÑOR JESÚS<br/>DERRAMA LLUVIA <br/>EN ESTE LUGAR<br/>VEN CON TU RIO<br/>SEÑOR JESÚS<br/>A INUDAR MI CORAZÓN</lines>
+    </verse>
+  </lyrics>
+</song>

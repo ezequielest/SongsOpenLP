@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:43">
+  <properties>
+    <titles>
+      <title>no hay nadie mas</title>
+      <title>jesus mi confianza pongo en ti</title>
+    </titles>
+    <authors>
+      <author type="words">zelah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú eres mi Dios y hoy me acerco<br/>a darte más de lo que tengo.<br/>No  hay nadie más que me<br/>haya amado igual.<br/>Me diste un nombre y una herencia,<br/>todos mis miedos a Tí entrego.<br/>No hay nadie más que me<br/>haya amado igual.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Por eso te doy mis sueños,<br/>mis años y lo que tengo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Jesús, mi confianza pongo en Tí.<br/>Jesús, viviré sólo para Tí.<br/><br/>Te entregaré mi corazón,<br/>Tú eres el centro de mi adoración,<br/>no hay nadie más...</lines>
+    </verse>
+  </lyrics>
+</song>

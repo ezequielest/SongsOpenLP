@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:42">
+  <properties>
+    <titles>
+      <title>Nada es difícil para Dios</title>
+    </titles>
+    <authors>
+      <author type="words">Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nada es dificil para Dios<br/>todo es posible al que cree<br/>Hoy la montañas por la fe se moverán<br/>por su poder</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>El es Jesús quien venció en la cruz<br/>fue quien cargó<br/>quien llevó nuestro dolor<br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Jesús resucitó<br/>y por su sangre<br/>sus heridas me sanó</lines>
+    </verse>
+  </lyrics>
+</song>

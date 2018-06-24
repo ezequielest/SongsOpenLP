@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-29T21:54:06">
+  <properties>
+    <titles>
+      <title>Nada es imposible</title>
+    </titles>
+    <authors>
+      <author>Planetshakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En Tí, todo es posible<br/>Todo lo puedo<br/>Por la fuerza que me das<br/>Nada es imposible</lines>
+    </verse>
+    <verse name="v2">
+      <lines>En Tí, mis ojos se abren<br/>Cadenas se rompen<br/>Ahora vivo por fé<br/>Nada es imposible</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No voy a vivir por lo que veo<br/>No voy a vivir por lo que siento<br/>Yo sé que aquí conmigo estas<br/>Yo sé que todo es posible en ti</lines>
+    </verse>
+    <verse name="v4">
+      <lines>En Tí, todo es posible<br/>Todo lo puedo<br/>Por la fuerza que me das<br/>Nada es imposible</lines>
+    </verse>
+    <verse name="v5">
+      <lines>En Tí, mis ojos se abren<br/>Cadenas se rompen<br/>Ahora vivo por fé<br/>Nada es imposible<br/>Nada es imposible</lines>
+    </verse>
+    <verse name="v6">
+      <lines>En Tí, todo es posible<br/>Todo lo puedo<br/>Por la fuerza que me das<br/>Nada es imposible<br/>En Tí, mis ojos se abren<br/>Cadenas se rompen<br/>Ahora vivo por fé<br/>Nada es imposible</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Creo en Tí<br/>Creo en Tí<br/>Creo en Tí<br/>Creo en Tí, Jesús</lines>
+    </verse>
+  </lyrics>
+</song>

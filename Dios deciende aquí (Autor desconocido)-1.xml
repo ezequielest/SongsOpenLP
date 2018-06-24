@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:23">
+  <properties>
+    <titles>
+      <title>Dios deciende aquí</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>DIOS, deciende aqui, <br/>te quiero tocar , te quiero abrazar <br/>deciende aqui <br/>DIOS, deciende aqui <br/>te quiero escuchar, te quiero hablar <br/>deciende aqui.</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>consolador deciende aqui <br/>salvador, DIOS de amor deciende aqui.</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Deciende de nuevo, deciende con fuego <br/>deciende en victoria,deiende en gloria <br/>DIOS con poder deciende aqui</lines>
+    </verse>
+  </lyrics>
+</song>

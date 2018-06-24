@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-14T12:36:52">
+  <properties>
+    <titles>
+      <title>Señor eres fiel</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>SEÑOR ERES FIEL <br/>Y TU MISERICORDIA ETERNA</lines>
+    </verse>
+    <verse name="v2">
+      <lines>GENTE DE TODA LENGUA Y NACION <br/>DE GENERACION A GENERACION</lines>
+    </verse>
+    <verse name="v3">
+      <lines>TE ADORAMOS HOY<br/>ALELUYA! ALELUYA!<br/>TE ADORAMOS HOY <br/>ERES SEÑOR</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>ERES FIEL</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>ERES FIEL<br/>SIEMPRE FIEL<br/>SIEMPRE FIEL<br/>ERES FIEL</lines>
+    </verse>
+  </lyrics>
+</song>

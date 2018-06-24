@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-07T14:29:51">
+  <properties>
+    <titles>
+      <title>hacemos hoy ante tu altar</title>
+      <title>cuidare mis ojos</title>
+    </titles>
+    <authors>
+      <author>adrian romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hacemos hoy ante tu altar <br/>un compromiso de vivir en santidad. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hacemos hoy ante tu altar <br/>un pacto de hombres que te quieren agradar. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Con manos limpias corazon puro para ti. </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cuidare mis ojos,<br/>cuidare mis manos, <br/>cuidare mi corazon,<br/>de todo lo malo, <br/>de todo lo malo, no te quiero fallar jamas. </lines>
+    </verse>
+  </lyrics>
+</song>

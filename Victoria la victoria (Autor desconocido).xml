@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:59">
+  <properties>
+    <titles>
+      <title>Victoria la victoria</title>
+    </titles>
+    <authors>
+      <author type="words">Autor desconocido</author>
+      <author type="music">Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Victoria, la victoria mía es <br/>Victoria, la victoria mía es <br/><br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Si mantengo mi paz <br/>El pelea la batalla <br/>Victoria, la victoria mía es</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Podemos subir allá y tomar la tierra <br/>poseer de la montaña hasta el mar <br/>y aunque esta tierra sea de gigantes <br/>nuestro Dios la victoria nos dará </lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Sol detente en Gabaón <br/>y tú luna en Ajalón <br/>el sol se paró cuando Josué oró <br/>porque Josué obedeció </lines>
+    </verse>
+  </lyrics>
+</song>

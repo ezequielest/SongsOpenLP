@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:27">
+  <properties>
+    <titles>
+      <title>Enamorame</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1 v4 v5</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero entregarte mis sueños <br/>tu voluntad haz en ellos <br/>mi corazon te lo entrego <br/>enamorarme de ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quiero aprender a escucharte <br/>quiero saber que es amarte <br/>de tu verdad yo saciarme <br/>enamorarmé de ti Señor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que tu presencia <br/>me inunde <br/>haz de mí<br/>un odre nuevo <br/>cámbiame <br/>renuevamé<br/>enamorarmé de ti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quiero aprender a escucharte <br/>quiero saber que es amarte <br/>de tu verdad yo saciarme <br/>enamorarmé de ti Señor</lines>
+    </verse>
+    <verse name="v5">
+      <lines>//Enamoramé de ti Señor//</lines>
+    </verse>
+  </lyrics>
+</song>

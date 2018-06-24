@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:28">
+  <properties>
+    <titles>
+      <title>Entrego Mi aflicción</title>
+      <title>si señor</title>
+    </titles>
+    <authors>
+      <author>Rey de Reyes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ENTREGO MI AFLICCIÓN <br/>MI VERGUENZA YO LE DOY<br/>LO ESTOY CAMBIANDO  POR EL GOZO DE DIOS</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ENTREGO MI ENFERMEDAD<br/>ENTREGO MI DOLOR<br/>LO ESTOY CAMBIANDO <br/>POR EL GOZO DE DIOS</lines>
+    </verse>
+    <verse name="c1">
+      <lines>SI SEÑOR, SI SI SEÑOR //<br/>AMÉN</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ATRIBULADO EN TODO<br/>MÁS NUNCA ANGUSTIADO<br/>PERSEGUIDO MÁS NO DESAMPARADO<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>SOY BENDECIDO MÁS ALLÁ DE MI AFLICCIÓN<br/>POR QUE SU GOZO ME FORTALECE<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>AUNQUE EN LA NOCHE PUEDA DURAR<br/>SE QUE EN LA MAÑANA GOZO TENDRÉ </lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Cambiaré mi tristeza, cambiaré mi vergüenza <br/>Los entregaré por el gozo de Dios <br/>Cambiaré mi dolor y mi enfermedad <br/>Los entregaré por el gozo de Dios</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Estando atribulado <br/>Pero nunca derrotado <br/>Perseguido mas no desamparado <br/></lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Maldiciones no me afectan <br/>Pues yo sé a quien voy <br/>En su gozo fuerte soy <br/></lines>
+    </verse>
+    <verse name="v1f">
+      <lines><br/>Aunque triste en la noche yo esté <br/>Gozo viene en la mañana </lines>
+    </verse>
+  </lyrics>
+</song>

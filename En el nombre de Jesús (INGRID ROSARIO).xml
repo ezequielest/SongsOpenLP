@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:27">
+  <properties>
+    <titles>
+      <title>En el nombre de Jesús</title>
+    </titles>
+    <authors>
+      <author>INGRID ROSARIO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1">
+      <lines>OH OH OH OH OH</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lucha por nosotros a nuestro lado esta <br/>Suya es la victoria ha vencido ya <br/>No nos detendremos no nos moverán <br/>Cristo estas aquí </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lleva nuestras cargas nos libra del mal <br/>Suya es la victoria ha vencido ya <br/>No nos detendremos no nos moverán <br/>Cristo estas aquí </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Viviré no moriré <br/>Por el poder de su nombre <br/>Vive en mi soy libre al fin <br/>Solo en Jesús </lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Si Dios es con nosotros vence las tinieblas<br/>Su reino establece no será movido<br/>En su nombre Cristo cae el enemigo<br/>y yo lo gritaré, gritaré</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Viviré no moriré <br/>Su nombre yo levantare<br/>Declaro hoy que sano soy <br/>Solo en Jesús </lines>
+    </verse>
+  </lyrics>
+</song>

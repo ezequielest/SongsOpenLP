@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:13">
+  <properties>
+    <titles>
+      <title>aleluya</title>
+      <title>padre quiero</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Padre yo te quiero amar <br/>y tocar tu corazóny rendirme a<br/> tus pies oh mi señor.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Quiero estar cerca de ti y<br/> adorarte con todo mi ser<br/>Y rendirte toda gloria, aleluya.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Aleluya, aleluya, <br/>aleluya, aleluya.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Cuando sienta yo caer<br/> firme en ti estaré<br/>Pues tú eres mi refugio oh señor.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>No importa donde pueda estar, <br/>en valles de dificultad<br/>Te adoraré cantando aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

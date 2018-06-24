@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-10T12:54:49">
+  <properties>
+    <titles>
+      <title>El fuego no se apagara</title>
+    </titles>
+    <authors>
+      <author>Rey de Reyes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo siento que las llamas<br/>De un avivamiento están aquí<br/>Yo veo el quebranto<br/>De un pueblo santo que clama a ti<br/>El fuego nunca mas se apagará</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo veo esperanza<br/>Y que las cenizas huyen de mí<br/>Dios, quema lo impuro<br/>Porque tu amor es puro<br/>Y nunca se apagará</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu fuego Dios arde en mi alma<br/>Tu fuego Dios enciende esa llama<br/>Tu fuego Dios</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo no quiero alejarme<br/>Porque algo nuevo viene que nos transformará<br/>Dios, llegará el día donde te podremos ver y el fuego no se apagará<br/>Y el fuego nunca más se apagará</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Purifícame, purifícame<br/>Espíritu ven, espíritu ven</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Tu fuego Dios arde en mi alma<br/>Tu fuego Dios enciende esa llama<br/>Tu fuego Dios<br/>El fuego nunca más se apagará</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:39">
+  <properties>
+    <titles>
+      <title>Levanto mis manos</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>levanto mis manos aunque no tenga fuerzas<br/>lavanto mis manos aunque tenga mil problemas</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cuando levanto mi manos<br/>comienzo a sentir<br/>una unciòn que me hace cantar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando levanto mis manos<br/>comienzo a sentir <br/>el fuego </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Cuando levanto mis manos<br/>mis cargas se van <br/>nuevas fuerzas tu me das<br/>todo eso es posible<br/>todo eso es posible<br/>cuando levanto mis manos </lines>
+    </verse>
+  </lyrics>
+</song>

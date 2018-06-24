@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:28">
+  <properties>
+    <titles>
+      <title>en tu presencia</title>
+    </titles>
+    <authors>
+      <author>selah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EN TU PRESENCIA, ES DONDE QUIERO ESTAR<br/>EN TU PRESENCIA, RENDIRME A TU PIES<br/>EN TU PRESENCIA, PODER CONTEMPLAR<br/>TU ROSTRO, TU MAJESTAD</lines>
+    </verse>
+    <verse name="v2">
+      <lines>NADA EN EL MUNDO<br/>SE COMPARA A TI<br/>SOLO TU, ME SACIAS</lines>
+    </verse>
+    <verse name="v3">
+      <lines>MI ALMA TE ANHELA<br/>MI SER CLAMA POR TI<br/>A TUS PIES QUIERO ADORAR</lines>
+    </verse>
+    <verse name="v4">
+      <lines>QUIERO TOCAR TU CORAZON<br/>QUIERO LLENAR DE TU ALABANZA ESTE LUGAR<br/>QUIERO DARTE MI MEJOR ADORACION<br/>JESUS, TE EXALTO</lines>
+    </verse>
+  </lyrics>
+</song>

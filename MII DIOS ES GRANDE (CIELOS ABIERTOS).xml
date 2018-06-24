@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-08-26T13:29:53">
+  <properties>
+    <titles>
+      <title>MII DIOS ES GRANDE</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>CREASTE EL UNIVERSO <br/>CON TU GRAN PODER <br/>CON UN SOPLO DE TU ALIENTO FORMASTE QUIEN SOY HOY<br/>CAMINASTE SOBRE EL AGUA<br/>CALMASTE LA TORMENTA<br/>LAS OLAS SE MUEVEN AL SONIDO DE TU VOZ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>SOLO ERES DIGNO DE EXALTARTE<br/>SOLO ERES DIGNO DE ALABARTE<br/>SOLO ERES DIGNO DE DARTE GLORIA</lines>
+    </verse>
+    <verse name="e1">
+      <lines><br/>MI DIOS ES GRANDE</lines>
+    </verse>
+  </lyrics>
+</song>

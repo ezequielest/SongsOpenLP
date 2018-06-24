@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:43">
+  <properties>
+    <titles>
+      <title>No hay nada imposible para nuestro Dios</title>
+    </titles>
+    <authors>
+      <author>new wine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No hay nada imposible para nuestro Dios///<br/>yo espero en  sus promesas y  en su fidelidad</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Su poder incontenible es<br/>su gloria indescriptible es<br/>no hay nada que no pueda hacer<br/>voy a alabar, voy a exaltar <br/>su santo nombre</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mi Dios es un Dios de milagros<br/>es el mismo ayer,<br/>hoy y para siempre</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Creo en milagros///<br/>¡Todo es posible!</lines>
+    </verse>
+  </lyrics>
+</song>

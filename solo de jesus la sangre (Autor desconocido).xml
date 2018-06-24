@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-01T12:44:03">
+  <properties>
+    <titles>
+      <title>solo de jesus la sangre</title>
+    </titles>
+    <authors>
+      <author type="words">Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu sangre habla mejor <br/>Que todo el clamor <br/>que en esta tierra hay <br/>justicia para mi, <br/>se para mi favor <br/>Jesús tu sangre es. </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quien nos puede perdonar <br/>quien nos puede completar <br/>solo de Jesús,solo de Jesús <br/>la sangre </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Quien te da otro corazón <br/>y te hace amigo de Dios <br/>solo de Jesús,solo de Jesús <br/>la sangre </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu cruz habla del amor, <br/>de su corazón <br/>un camino nos abrió </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Me acerco con valor, <br/>sin confianza terrenal <br/>Jesús tu sangre es</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Gracias por la cruz<br/>Gracias por l cruz<br/>Solo de Jesús la sangre</lines>
+    </verse>
+  </lyrics>
+</song>

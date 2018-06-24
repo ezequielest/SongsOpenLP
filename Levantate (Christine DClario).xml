@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-23T13:09:17">
+  <properties>
+    <titles>
+      <title>Levantate</title>
+    </titles>
+    <authors>
+      <author>Christine DClario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh ven y adoremosle<br/>y exaltemos su nombre<br/>pues solo el grandioso es<br/>a Dios en alto alabale</lines>
+    </verse>
+    <verse name="v2">
+      <lines>//Gloria//</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Levantate y dale gloria<br/>es tiempo de cantar de lo que ha hecho Dios<br/>Su amor nos dio</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aleluya</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Levantate su luz llego<br/>Levantate su luz llego aquí<br/>El llegó aqui</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:13">
+  <properties>
+    <titles>
+      <title>alabadle</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nos hemos congregado <br/>en este día para darle honra <br/>La música tocamos,<br/>las voces elevamos <br/>para darle gloria</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unción de jubilo <br/>ha llenado este lugar<br/>Con el propósito <br/>de su nombre levantar</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>Solo a el <br/>Adoradle adoradle <br/>El ha sido fiel</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Pues es digno de exaltar</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Declaremosle a los pueblos <br/>de su amor y majestad<br/>Alabadle<br/>adorad a Jesús el rey</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Las manos levantadas<br/>corazones hacia el cielo <br/>esperando <br/>Sin duda lo sabemos <br/>que su presencia <br/>se esta manifestando</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Al sentarse sobre el trono <br/>de nuestra adoración <br/>Dejamos que el gobierne <br/>sobre toda creación</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>alabadle Solo a el <br/>Adoradle adoradle</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>Cantad la gloria de su nombre <br/>pues es digno de exaltar</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Declaremos a los pueblos <br/>de su amor y majestad</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>Alabadle <br/>adorad a Jesús el rey</lines>
+    </verse>
+  </lyrics>
+</song>

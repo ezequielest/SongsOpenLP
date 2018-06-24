@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:27">
+  <properties>
+    <titles>
+      <title>En la Cruz</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2 v3 c1 c2 b1 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor conoces<br/>Mi corazón<br/>Aun cuando te fallo<br/>Se que me amas</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Con tu presencia<br/>Rodéame<br/>En todo tiempo<br/>Se que me amas <br/>Se que me amas</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hoy me postro ante Jesús<br/>Diste tu sangre en la cruz<br/>No hay otro amor igual</lines>
+    </verse>
+    <verse name="c2">
+      <lines>El murió y resucitó<br/>Sobre la muerte venció<br/>Nada me separara</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi escudo eres<br/>Mi protección<br/>Tu me sostienes<br/>Se que me amas</lines>
+    </verse>
+    <verse name="b1">
+      <lines>El velo rasgo <br/>Un camino abrió <br/>Todo consumado es</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ante tormentas o tempestad <br/>Tu estas conmigo <br/>Se que me amas <br/>Se que me amas </lines>
+    </verse>
+  </lyrics>
+</song>

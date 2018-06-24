@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-23T13:29:30">
+  <properties>
+    <titles>
+      <title>por el poder de tu amor</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VENGO A TI SENOR CAMBIAME, RENUEVAME POR<br/>LA GRACIA QUE ENCONTRE EN TI AHORA SE QUE</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>LAS DEBILIDADES QUE HAY EN MI DESVANECERAN<br/>POR EL PODER DE TU AMOR.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>CUBREME, CON TU AMOR RODEAME TOMAME,<br/>CERCA QUIERO ESTAR </lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Y AL ESPERAR<br/>NUEVAS FUERZAS YO TENDRE Y ME LEVANTARE<br/>CAMO LAS AGUILAS POR EL PODER DE TU AMOR.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>YO TE QUIERO VER CARA A CARA OH! SENOR Y CONOCER<br/>ASI MAS DE TI EN MI, PREPARAME SENOR<br/>PARA HACER TU VOLUNTAD VIVIENDO<br/>CADA DIA POR EL PODER DE TU AMOR.</lines>
+    </verse>
+  </lyrics>
+</song>

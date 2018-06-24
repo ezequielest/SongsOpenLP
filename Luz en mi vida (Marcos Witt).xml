@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:39">
+  <properties>
+    <titles>
+      <title>Luz en mi vida</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>luz de mi vida<br/>aliento en mi ser<br/>tu amor me consume<br/>es fuego en mi ser</lines>
+    </verse>
+    <verse name="v1">
+      <lines>nada podra apagar este amor<br/>luz de mi vida<br/>eres tu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>al contemplarte te quiero adorar<br/>tu voz seduce mi voluntad<br/>tu eres mi primer amor<br/>y yo anhelo tu gloria en mi</lines>
+    </verse>
+  </lyrics>
+</song>

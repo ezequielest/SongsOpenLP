@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:21">
+  <properties>
+    <titles>
+      <title>declaramos</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v4</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Los cielos y la tierra declaran tu poder <br/>Revelanos mas de ti <br/>Y lo que hemos oido <br/>Y lo que hemos de ver <br/>Nos enamora mas de ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Declaramos que eres santo <br/>Declaramos que eres digno <br/>Declaramos que no hay otro como tu <br/>Declaramos tu gobierno <br/>Declaramos tu dominio <br/>Declaramos que no hay otro como tu <br/>Señor <br/>Venga tu reino</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Declaramos que eres santo <br/>Declaramos que eres digno <br/>Declaramos que no hay otro como tu <br/>Declaramos tu gobierno <br/>Declaramos tu dominio <br/>Declaramos que no hay otro como tu <br/>Señor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>///No hay otro como tu/// <br/>En los cielos y en la tierra <br/>Ni debajo de la tierra</lines>
+    </verse>
+  </lyrics>
+</song>

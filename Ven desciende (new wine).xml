@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-02-24T20:32:45">
+  <properties>
+    <titles>
+      <title>Ven desciende</title>
+    </titles>
+    <authors>
+      <author>new wine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ven Descansa Santo Espíritu<br/>Oh Gentil consolador<br/>Te anhelamos aliento de Dios<br/>con tu presencia sácianos</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Como viento muévete<br/>como fuego purifica<br/>como paloma hoy desciende<br/>y reposa sobre mi<br/>hasta rebosar de ti</lines>
+    </verse>
+    <verse name="v3">
+      <lines>El peso de tu gloria<br/>desciende y reposa</lines>
+    </verse>
+  </lyrics>
+</song>

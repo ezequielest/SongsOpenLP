@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:24">
+  <properties>
+    <titles>
+      <title>Dios manda lluvia</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios manda lluvia<br/>derrama de tu Espíritu,<br/>desciende hoy con fuego,<br/>sana mis heridas, <br/>restáurame Señor</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>Manda la lluvia, el rocío de tu amor<br/>llenando la vidas de tu pueblo ho Señor</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Manda la lluvia, el rocío de tu amor<br/>visita hoy mi vida, cámbiame Señor</lines>
+    </verse>
+  </lyrics>
+</song>

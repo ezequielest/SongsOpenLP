@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:40">
+  <properties>
+    <titles>
+      <title>me haz librado de la muerte</title>
+      <title>porque fuera de ti</title>
+    </titles>
+    <authors>
+      <author>Iglesia de Dios</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NO SÉ PORQUE, SEÑOR TU ME TOCASTE, <br/>NO SE PORQUE, EN MI TU TE FIJASTE <br/>PERO SI SE, QUE ES GRANDE TU AMOR POR MI <br/>MI CORAZÓN ESTA AGRADECIDO <br/>MI CORAZÓN ESTA ATI RENDIDO <br/>CONTIGO SIEMPRE, QUIERO SEÑOR ESTAR </lines>
+    </verse>
+    <verse name="c1">
+      <lines>ME HAS LIBRADO DE LA MUERTE, ME HAS DADO NUEVA VIDA <br/>ME SACASTE MI TRISTEZA, ME CEÑISTE DE ALEGRÍA </lines>
+    </verse>
+    <verse name="c2">
+      <lines>POR TANTO NUNCA CALLARÉ, A TI CANTARÉ <br/>TE ALABARÉ, GLORIA MIA</lines>
+    </verse>
+    <verse name="c3">
+      <lines>CRISTO MI SEÑOR, A TI CANTARÉ<br/>TE ALABARÉ, GLORIA MIA</lines>
+    </verse>
+    <verse name="c4">
+      <lines>/// PORQUE FUERA DE TI NADA DESEO EN LA TIERRA <br/>TU PRESENCIA ES MAS HERMOSA QUE CUALQUIER COSA ///</lines>
+    </verse>
+  </lyrics>
+</song>

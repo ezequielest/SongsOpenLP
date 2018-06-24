@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-02-04T13:33:35">
+  <properties>
+    <titles>
+      <title>El tiempo de cantar llego</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El tiempo de cantar llego<br/>El tiempo de danzar llego</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y viene El y viene El saltando entre los montes //<br/><br/>Y sus cabellos, y sus cabellos, son blancos como nieve  //<br/><br/>Y en sus ojos, y en sus ojos , hay fuego. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ven y enciende Señor a novia, <br/>Ven y enciende Señor a tu iglesia, <br/>Ven y enciende Señor a tu casa, <br/>Ven y enciendeme</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y con saltos de alegria y gritos de victoria yo voy, yo voy </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Voy a seguir a Jesus, voy a seguir a Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

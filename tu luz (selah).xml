@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:57">
+  <properties>
+    <titles>
+      <title>tu luz</title>
+    </titles>
+    <authors>
+      <author>selah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ME ALUMBRASTE CON TU LUZ<br/>QUITASTE MIS TINIEBLAS<br/>MIS OJOS ABRISTE CON TU VERDAD</lines>
+    </verse>
+    <verse name="v2">
+      <lines>MIS PASOS GUIAS HACIA TI<br/>ERES LA LUZ EN MI CAMINO<br/>ERES LA RAZON DE MI VIDA</lines>
+    </verse>
+    <verse name="v3">
+      <lines>TU LUZ RESPLANDECIO SOBRE MI<br/>LA LUZ DE TU SALVACION<br/>TU ERES LA VERDAD, QUE ME SALVO<br/>CRISTO, VIVO POR TI</lines>
+    </verse>
+    <verse name="c1">
+      <lines>EN TU LUZ, VEO LA LUZ<br/>EN TU LUZ, VEO LA LUZ<br/>EN TU LUZ, VEO LA LUZ</lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/>TU LUZ RESPLANDECIO SOBRE MI<br/>CRISTO, VIVO POR TI</lines>
+    </verse>
+  </lyrics>
+</song>

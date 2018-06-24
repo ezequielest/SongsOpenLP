@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-03T14:15:28">
+  <properties>
+    <titles>
+      <title>LO UNICO QUE QUIERO</title>
+      <title>ANHELO</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ANHELO CONOCERTE MÁS<br/>VIVIR EN SANTIDAD, EN INTIMIDAD<br/>CONTIGO SIEMPRE QUIERO ESTAR<br/>TU GLORIA CONTEMPLAR<br/> POR LA ETERNIDAD...</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>LO ÚNICO QUE QUIERO ES ADORARTE//<br/>VENGO A TUS PIES <br/>PARA ENTREGAR MI CORAZON<br/> </lines>
+    </verse>
+    <verse name="v1c">
+      <lines>LO UNICO QUE QUIERO ES AGRADARTE//<br/>POR SIEMPRE CANTARÉ DE TU AMOR</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>AMOR QUE ME RESCATÓ,<br/>QUE ME LIMPIÓ<br/>QUE ME DA VIDA ETERNA<br/>TU SANGRE ABRIÓ EL CAMINO<br/>NUNCA SE CERRARÁ<br/> TENGO LIBERTAD</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-15T12:02:57">
+  <properties>
+    <titles>
+      <title>llueve</title>
+    </titles>
+    <authors>
+      <author>Rey de Reyes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El cielo hoy, parece oscuro,<br/>Los tiempos hoy, van a cambiar,<br/>Bajos mis pies, la tierra espera,<br/>Es tiempo de, tu lluvia oh Dios,<br/>Hoy va ha llover</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Es agua viva, que deseamos,<br/>Ven y llénanos con fuego Santo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Llueve, todas las naciones cantan,<br/>Llueve, puedes escuchar la tierra<br/>Llueve, estoy sediento pero canto,<br/>Llueve, llueve sobre mi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Una vez mas, mi alma espera,<br/>Poder en ti, soñar otra vez,<br/>Si puedo ver, el tiempo esta cerca,<br/>Para danzar una vez más,<br/>Si va a llover…</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Abre hoy, abre hoy,<br/>Abre hoy, los cielos<br/>Hoy te doy, mi ser..</lines>
+    </verse>
+  </lyrics>
+</song>

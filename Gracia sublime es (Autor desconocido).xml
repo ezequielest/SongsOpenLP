@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T14:06:35">
+  <properties>
+    <titles>
+      <title>Gracia sublime es</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quien rompe el poder de el pecado<br/>su amor es fuerte y poderoso<br/>El rey de gloria <br/>El rey de majestad</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Conmueve el mundo con su estruendo <br/>Y nos asombra con maravillas <br/>El Rey de gloria, El Rey de majestad </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gracia sublime es <br/>Perfecto es su amor<br/>tomaste mi lugar <br/>cargaste tú mi cruz <br/>tu vida diste ahí y ahora libre soy<br/>Jesús te adoro por lo que hiciste en mi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pusiste en orden todo el caos <br/>Nos adoptaste como tus hijos <br/>El Rey de gloria, El Rey de majestad</lines>
+    </verse>
+    <verse name="v4">
+      <lines>El que gobierna con su justicia <br/>Y resplandece con su belleza <br/>El Rey de gloria, El Rey de majestad</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Digno es el cordero de Dios, Digno es el Rey que a la muerte venció</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:51">
+  <properties>
+    <titles>
+      <title>Santo santo santo es el Señor</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se oye un son del cielo<br/>Como el de muchas aguas<br/>Desde el trono viene, Adoración<br/>Se oye un grito de alabanza<br/>Desde las naciones<br/>y su gloria dan a conocer, Cantando.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santo, Santo Santo, es el Señor.<br/>Santo, Santo Santo, es el Señor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Multitud de ángeles, y redimidos<br/>te adoran hoy,<br/>Santo, Santo, Santo eres Tú.</lines>
+    </verse>
+  </lyrics>
+</song>

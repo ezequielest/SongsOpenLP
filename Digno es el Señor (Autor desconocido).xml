@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:22">
+  <properties>
+    <titles>
+      <title>Digno es el Señor</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gracias por la cruz oh Dios <br/>el precio que pagaste por mi <br/>llevando mi pecado alli <br/>sublime amor <br/>tu gracia me salvo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gracias por tu amor oh Dios<br/>Tus manos clavadas por mi <br/> Me haz lavado oh Señor <br/>Conozco hoy tu abrazo y tu perdón</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Digno es el Señor <br/>En su trono esta <br/>hoy te coronamos rey y reinas con poder</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Altisimo señor<br/>Jesús hijo de Dios<br/>El amado del cielo en la cruz murió</lines>
+    </verse>
+    <verse name="v5">
+      <lines>//Digno es el Señor //</lines>
+    </verse>
+  </lyrics>
+</song>

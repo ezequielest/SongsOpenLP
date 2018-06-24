@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:55">
+  <properties>
+    <titles>
+      <title>Te pertenezco</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Muestrame tu camino oh señor <br/>Santificame dispuesto esta mi corazon</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quiero ser una ofrenda para ti <br/>con mi forma de vivir <br/>que tu reino venga a mi</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>postrado en mi aposento<br/>me encontrare contigo<br/>y en la intimidad<br/>me enseñaras a tocar tu corazon</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Mi vida en tu presencia se ha vuelto una aventura que tanto soñe <br/>he encontrado en ti la razon de mi existir</lines>
+    </verse>
+    <verse name="p1c">
+      <lines>Te pertenezco señor</lines>
+    </verse>
+  </lyrics>
+</song>

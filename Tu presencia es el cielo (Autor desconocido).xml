@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:58">
+  <properties>
+    <titles>
+      <title>Tu presencia es el cielo</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 o1</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quien como Tú en la tierra oh Señor <br/>Hermoso, inigualable es Tu valor <br/>Y nada en este mundo saciará <br/>Jesús Tu copa no se secará</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu Presencia es el cielo, para mí</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tesoro de mi alma y corazón <br/>Me das Tu gracia aunque débil soy <br/>De mis errores eres redentor <br/>De mi futuro eres el guardador</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y cantamos OH Cristo, OH Cristo, OH <br/>Tu Presencia es el cielo, para mí</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Y mientras tenga vida esperaré <br/>Cuando cara a cara te veré <br/>Y nada en este mundo saciará <br/>Jesús Tu copa no se secará</lines>
+    </verse>
+    <verse name="v6">
+      <lines>No acabará… <br/>Tu Presencia es el cielo, para mí</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>Tu Presencia es el cielo, para mí…por siempre….</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>Tu Presencia es el cielo, para mí <br/>Y cantamos OH Cristo, OH Cristo,<br/>Tu Presencia es el cielo, para mí!</lines>
+    </verse>
+  </lyrics>
+</song>

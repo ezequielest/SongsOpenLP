@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:23">
+  <properties>
+    <titles>
+      <title>Dios desciende aqui</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dios desciende aquí<br/>Dios desciende aquí<br/>Te quiero escuchar<br/>Te quiero hablar<br/>Desciende aquí</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dios desciende aquí<br/>Dios desciende aquí<br/>Te quiero tocar<br/>Te quiero abrazar<br/>Desciende aquí</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Espíritu desciende aquí<br/>Consolador desciende aquí<br/>Salvador, Dios de amor<br/>desciende aquí</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Desciende de nuevo<br/>Desciende con fuego<br/>Desciende en victoria<br/>Desciende en gloria</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Dios con poder desciende aquí</lines>
+    </verse>
+  </lyrics>
+</song>

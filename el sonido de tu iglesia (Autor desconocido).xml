@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:26">
+  <properties>
+    <titles>
+      <title>el sonido de tu iglesia</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1a">
+      <lines>Es el sonido de tu iglesia <br/>Enamorada,facinada por ti... <br/>(x2) <br/>Ven Jesus, y toma tu lugar <br/>Ven Jesus a danzar</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Un corazon apasionado <br/>un corazon entrelazado <br/>el tuyo y el mio <br/>mi amado y yo <br/>(x2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ven Jesus a reinar</lines>
+    </verse>
+  </lyrics>
+</song>

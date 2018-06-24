@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:14">
+  <properties>
+    <titles>
+      <title>Alfa y Omega</title>
+    </titles>
+    <authors>
+      <author>Barak</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eres el único <br/>Eres el gran yo soy <br/>No hay como tú, Señor <br/>No hay como tú, mi Dios </lines>
+    </verse>
+    <verse name="p1">
+      <lines>La tierra canta <br/>El cielo postrado está <br/>Y el universo <br/>Y miles de ángeles cantar </lines>
+    </verse>
+    <verse name="c1">
+      <lines>El Alfa, la Omega <br/>Principio y final <br/>El alto, Sublime <br/>Quien es <br/>Quien será </lines>
+    </verse>
+    <verse name="b1">
+      <lines>//Que tu reino <br/>Se establezca <br/>En la tierra como en el cielo// </lines>
+    </verse>
+  </lyrics>
+</song>

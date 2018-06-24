@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-23T22:25:11">
+  <properties>
+    <titles>
+      <title>mil razones</title>
+    </titles>
+    <authors>
+      <author>en su presencia</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Que todo lo que soy<br/>bendiga al señor<br/>su nombre santo es<br/>con todo mi ser<br/>cantare<br/>su nombre alabare.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sale el sol es un nuevo amanecer<br/>es tiempo de adorar otra ves<br/>no importa lo que venga<br/>mi anhelo es que el me encuentre<br/>cantando hasta que se ponga el sol.<br/> </lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Que todo lo que soy<br/>bendiga al señor<br/>su nombre santo es<br/>con todo mi ser<br/>cantare<br/>su nombre alabare. </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Tu amor es grande<br/>eres paciente<br/>y bondadoso es tu corazón<br/>por todo lo que has hecho yo seguiré cantando<br/>diez mil razones para alabar. </lines>
+    </verse>
+  </lyrics>
+</song>

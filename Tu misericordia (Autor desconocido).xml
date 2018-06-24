@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:57">
+  <properties>
+    <titles>
+      <title>Tu misericordia</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>QUE SOY YO PARA QUE ME VISITES <br/>Y TE ACUERDE DE MI SENOR JESUS</lines>
+    </verse>
+    <verse name="v2">
+      <lines>QUE TE MOVIO A PERDONARME <br/>TU MISERICORDIA OH DIOS ME ABRAZO Y EL PASADO OLVIDO</lines>
+    </verse>
+    <verse name="v3">
+      <lines>TU MISERICORDIA ES MEJOR QUE LA VIDA <br/>TU MISERICORDIA PUSO EN MI UNA CANCION</lines>
+    </verse>
+    <verse name="v4">
+      <lines>TU MISERICORDIA VIVIFICA AL CAIDO <br/>TU MISERICORDIA OH DIOS ME ALCANZO Y MI VIDA CORONÒ</lines>
+    </verse>
+  </lyrics>
+</song>

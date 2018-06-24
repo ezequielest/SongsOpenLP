@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:29">
+  <properties>
+    <titles>
+      <title>eres dios eterno</title>
+    </titles>
+    <authors>
+      <author type="words">Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios de mi corazón,<br/> en ti encontré mi salvación </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu gloria y majestad<br/> Quiero siempre contemplar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tú eres mi adoración <br/>Y mi eterna canción </lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Todo mi interior es <br/>Cautivado por tu amor </lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Eres Dios eterno <br/>Solo tú eres bueno <br/>Dios incomparable eres tú </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nunca me separare de tu gran amor <br/>Eres mi señor mi salvador </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aleluya</lines>
+    </verse>
+  </lyrics>
+</song>

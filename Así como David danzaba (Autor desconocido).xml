@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:15">
+  <properties>
+    <titles>
+      <title>Así como David danzaba</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Cuando el Señor hiciere volver la cautividad <br/>seremos como los que sueñan//</lines>
+    </verse>
+    <verse name="v2">
+      <lines>//Mi boca llenará de risa, mis labios de alabanza, <br/>Entonces dirán las naciones: <br/>Grandes cosas ha hecho el Señor//</lines>
+    </verse>
+    <verse name="v3">
+      <lines>//Me gozaré, me gozaré, me gozaré, <br/>me gozaré en Jehová.  <br/>Pues se ha llevado todo mi dolor, me ha hecho libre//</lines>
+    </verse>
+    <verse name="v4">
+      <lines>//Así como David cantaba, así como David danzaba, <br/>así como David fluía en su presencia//</lines>
+    </verse>
+  </lyrics>
+</song>

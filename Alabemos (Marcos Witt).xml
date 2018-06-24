@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-15T20:46:49">
+  <properties>
+    <titles>
+      <title>Alabemos</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alabemos con panderos<br/>Alabemos con salterio<br/>Alabemos todos juntos<br/>Alabemos, alabemos</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alabemos con trompetas<br/>Alabemos con las flautas<br/>Alabemos con las palmas<br/>Alabemos, alabemos</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Todo lo que tenga vida, todo lo que aún respira<br/>Con canciones de alegría alabemos alabemos</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Levantemos manos santas, celebremos con la danza<br/>Que se escuche la alabanza<br/>Alabemos, alabemos</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te alabamos Dios</lines>
+    </verse>
+  </lyrics>
+</song>

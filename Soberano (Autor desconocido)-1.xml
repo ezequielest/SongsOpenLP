@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:52">
+  <properties>
+    <titles>
+      <title>Soberano</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Manos que fueron clavadas por mí. <br/>Heridas que hablan de tu inmenso amor.</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Por eso te canto.</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Dios del universo, salvador eterno, <br/>rey de toda la creación. <br/>Redentor divino, Dios a ti me rindo, <br/>gloria te doy.</lines>
+    </verse>
+    <verse name="p1c">
+      <lines>Santo Dios, plan soberano es, <br/>el enviar tu hijo por la humanidad.</lines>
+    </verse>
+    <verse name="p1d">
+      <lines>//Santo, santo, santo Dios//</lines>
+    </verse>
+    <verse name="p1e">
+      <lines>Manos que se entregaron por amor, <br/>lo que soy siempre te daré, Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:17">
+  <properties>
+    <titles>
+      <title>Cantaria sin parar</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Cantaría sin parar por lo que hiciste en mi <br/>danzaría siempre Dios por tu gran amor </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Arde mi corazón para poder decir <br/>que me ha salvado y borraste mi pasado <br/>Señor quero gritar hacia todo lugar <br/>si tu estás conmigo quienes contra mi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Estamos cantando <br/>somos felices <br/>estamos danzando <br/>pues somos libres <br/>si te pudieramos mirar contemplar tu sonreir <br/>y con los angeles danzar <br/>por que Dios esta aqui </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:22">
+  <properties>
+    <titles>
+      <title>de los montes a los valles</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v3 v2 v4 v5</verseOrder>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Llenas nuestro hogar de danza, de tu gozo la ciudad, <br/>la injusticia tu quebrantas, así se humilla tu heredad</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De los montes a los valles ya se escucha el clamor de <br/>los cielos a los pueblos ya te cantan con amor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu luz vence las tinieblas al andar ante la cruz llena <br/>tu gloria a tierra como el mar en plenitud</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aleluya, aleluya, aleluya, aleluya, Aleluya, aleluya, <br/>aleluya, aleluya, aleluya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>///De los montes a los valles ya se escucha el clamor <br/>de los cielos a los pueblos ya te cantan con amor///</lines>
+    </verse>
+  </lyrics>
+</song>

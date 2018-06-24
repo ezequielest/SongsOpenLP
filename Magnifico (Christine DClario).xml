@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-07T12:45:44">
+  <properties>
+    <titles>
+      <title>Magnifico</title>
+    </titles>
+    <authors>
+      <author>Christine DClario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grandioso es<br/>tu constante amor<br/>que nos cubrió.<br/>Asombrosa es<br/>tu gracia que<br/>nos redimió.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo,<br/>milagro del mundo<br/>te amamos.<br/>Salvador,<br/>hijo del Dios<br/>//magnífico//</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nos humillamos hoy<br/>en tu presencia oh Dios<br/>envuélvenos.<br/>Manos en alto están<br/>ante tu inmensidad<br/>eres magnífico.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cristo,<br/>milagro del mundo<br/>te amamos.<br/>Salvador,<br/>hijo del Dios<br/>//magnífico//<br/>Magnífico, magnífico.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>//El cielo no podrá<br/>contener su amor.<br/>Y la tierra exaltará<br/>al gran Dios único.<br/>Toda alma y corazón<br/>tendrá que declarar<br/>a Jesús magnífico//<br/>A Jesús magnífico...</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Cristo,<br/>milagro del mundo<br/>te amamos.<br/>Salvador,<br/>hijo del Dios<br/>//magnífico//</lines>
+    </verse>
+    <verse name="v7">
+      <lines>//Magnífico, magnífico//</lines>
+    </verse>
+  </lyrics>
+</song>

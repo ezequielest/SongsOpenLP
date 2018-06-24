@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-08-26T12:59:20">
+  <properties>
+    <titles>
+      <title>GRANDE Y FUERTE ES NUESTRO DIOS</title>
+    </titles>
+    <authors>
+      <author>CIELOS ABIERTOS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>VESTIDO EN MAJESTAD<br/>CORONADO CON PODER<br/>DIGNO DE TODA LA ADORACION</lines>
+    </verse>
+    <verse name="c2">
+      <lines>VESTIDO EN MAJESTAD<br/>CORONADO CON PODER<br/>TODA GLORIA Y HONRA SEAN PARA TI</lines>
+    </verse>
+    <verse name="b1">
+      <lines>GRANDE Y FUERTE ES NUESTRO DIOS</lines>
+    </verse>
+  </lyrics>
+</song>

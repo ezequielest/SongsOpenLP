@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:45">
+  <properties>
+    <titles>
+      <title>Poderoso Dios</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>AL QUE ESTA SENTADO<br/>EN EL TRONO <br/>Y AL CORDERO<br/> SEA EL HONOR</lines>
+    </verse>
+    <verse name="v2">
+      <lines>SEA LA GLORIA, <br/>SEA LA HONRA, <br/>SEA EL DOMINIO<br/>POR LOS SIGLOS DE LOS SIGLOS</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>PODEROSO DIOS, <br/>PODEROSO DIOS, <br/>MI ALMA CLAMA POR TI</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>MI ALMA CLAMA POR TI</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>PODEROSO DIOS</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:24">
+  <properties>
+    <titles>
+      <title>dios eterno</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>mil veces te fallé, mas tú fuiste fiel, <br/>Tu gracia me levantó, me basta tu amor, <br/>Dios eterno, tu luz por siempre brillará <br/>Y tu gloria, incomparable sin final.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Señor, tu voluntad permanecerá, <br/>En ti me quiero perder en adoración, <br/>Dios eterno, tu luz por siempre brillará <br/>Y tu gloria, incomparable sin final.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De mi corazón te doy el control, <br/>Consume todo mi interior, Dios. <br/>Justicia y amor me abrazan, Señor, <br/>Te amo desde mi interior.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dios eterno, tu luz por siempre brillará, <br/>Y tu gloria, incomparable sin final. <br/>El clamor de mi ser es contigo estar <br/>Desde mi interior mi alma clamará</lines>
+    </verse>
+  </lyrics>
+</song>

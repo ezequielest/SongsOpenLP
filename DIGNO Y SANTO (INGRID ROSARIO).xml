@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:23">
+  <properties>
+    <titles>
+      <title>DIGNO Y SANTO</title>
+      <title>SANTO DIOS TODO PODEROSO</title>
+    </titles>
+    <authors>
+      <author type="words">INGRID ROSARIO</author>
+      <author type="music">INGRID ROSARIO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Digno y santo el cordero<br/>inmolado en la cruz<br/>nuevo canto levantaremos<br/> al que en el  trono esta//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>santo. santo, santo,<br/>Dios todo poderoso<br/>quien fue, quien es y quien vendra</lines>
+    </verse>
+    <verse name="c2">
+      <lines>la creacion te canta<br/>y damos gloria a El<br/>tu eres digno <br/>por siempre y siempre</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De un arco iris, esta vestido<br/> tu voz resuena como los truenos<br/>recibe honor y gloria<br/>poder y majestad<br/>a ti al unico rey</lines>
+    </verse>
+    <verse name="b1">
+      <lines>tan grandioso, asombroso<br/> con solo decir jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>jesus<br/>oh jesus, con solo decir jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>tan grandioso, asombroso<br/>con solo decir jesus<br/>  cristo tu nombre es grande<br/> </lines>
+    </verse>
+    <verse name="v5">
+      <lines>fuente inagotable<br/> tu misterio glorioso ES</lines>
+    </verse>
+  </lyrics>
+</song>

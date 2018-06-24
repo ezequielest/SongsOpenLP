@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:41">
+  <properties>
+    <titles>
+      <title>Mis generaciones y yo</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El corazon de los padres<br/>Se vuelve a los hijos <br/>El corazon de los hijos <br/>Se vuelve a los padres <br/><br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mis generaciones y yo serviremos al Señor <br/>Mis generaciones y yo serviremos al Señor <br/>Adoraremos y reinaremos contigo Señor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu amor esta sanando <br/>Nuestros corazones <br/>Y reconciliando las generaciones</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Reconocemos tu paternidad <br/>Te construimos un hogar <br/>Dulce hogar</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Admirable Consejero <br/>Fuerte Dios Padre eterno <br/>Te necesitamos</lines>
+    </verse>
+  </lyrics>
+</song>

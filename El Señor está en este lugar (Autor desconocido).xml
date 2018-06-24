@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:26">
+  <properties>
+    <titles>
+      <title>El Señor está en este lugar</title>
+    </titles>
+    <authors>
+      <author type="words">Autor desconocido</author>
+      <author type="music">Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>El Señor está <br/>en este lugar/</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Para sanar, para librar,<br/>para romper toda obra <br/>de maldad</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Para sanar, para librar<br/>mi alma</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:36">
+  <properties>
+    <titles>
+      <title>Jehova es mi guerrero</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehová es mi guerrero<br/>oh oh oh oh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y con mi alabanza pelearé <br/>Pues no es mi guerra sino la de Dios</lines>
+    </verse>
+    <verse name="v3">
+      <lines>danza y pandero yo daré <br/>Pues no es mi guerra sino la de Dios <br/>Simbalo y trompeta sonaré<br/>Pues no es mi guerra sino la de Dios</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Con fuerte y alta voz yo gritaré...</lines>
+    </verse>
+  </lyrics>
+</song>

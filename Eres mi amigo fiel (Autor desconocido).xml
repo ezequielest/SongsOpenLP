@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:29">
+  <properties>
+    <titles>
+      <title>Eres mi amigo fiel</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quien soy yo para que en mi tu pienses <br/>Y que escuches, mi clamor <br/>Y es verdad lo que tu hoy me dices <br/>Que me amas, me asombras</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>Eres mi amigo fiel, <br/>Eres mi amigo fiel, <br/>Tu amigo soy</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Majestuoso, poderoso<br/>tu amigo soy</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:31">
+  <properties>
+    <titles>
+      <title>Fiesta</title>
+      <title>MiellSM</title>
+    </titles>
+    <authors>
+      <author type="music">miel san marcos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo que se canta en el cielo <br/>Cantamos en la tierra <br/>Al que se adora en el cielo <br/>Adoramos en la tierra</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Al Santo, digno <br/>Al Cordero que vive para siempre </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hacemos fiesta <br/>Hoy hacemos una fiesta <br/>Unidos hoy danzamos <br/>Con gozo celebramos <br/>Oh uh oh uh oh </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Fiesta <br/>Hoy hacemos una fiesta <br/>En la tierra cantamos <br/>Juntos gritamos <br/>Oh uh oh uh oh</lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/>//Hacemos Fiesta//</lines>
+    </verse>
+  </lyrics>
+</song>

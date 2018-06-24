@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:12">
+  <properties>
+    <titles>
+      <title>Abre hoy los cielos</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1a">
+      <lines>Mi vida esté llena de Ti</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Señor sólo quiero ver Tu Gloria <br/>Y que fuego del cielo caiga en mí</lines>
+    </verse>
+    <verse name="p1c">
+      <lines>Mira mi pasión, y cuanto te anhelo <br/>Hambriento estoy de Ti</lines>
+    </verse>
+    <verse name="p1d">
+      <lines>Que no haya motivo que pueda separarme <br/>Cambia mi corazón, oye mi oración</lines>
+    </verse>
+    <verse name="p1e">
+      <lines>Abre hoy los cielos</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>Veremos Tu Gloria descender</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Se puede escuchar este clamor <br/>En la boca de cada nación</lines>
+    </verse>
+  </lyrics>
+</song>

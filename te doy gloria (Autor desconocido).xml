@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:54">
+  <properties>
+    <titles>
+      <title>te doy gloria</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Cuan hermoso eres Jesús<br/>son tus palabras, es tu amor</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Cuan glorioso eres Jesús<br/>es tu poder, fue tu cruz</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>La que me salvó,<br/> me rescató <br/>tu momento ahí nos dio libertad</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Te doy gloria gloria <br/>te doy gloria gloria <br/>te doy gloria gloria  <br/>a ti Jesús</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>Con una corona <br/>de espinas <br/>te hiciste <br/>Rey por siempre</lines>
+    </verse>
+  </lyrics>
+</song>

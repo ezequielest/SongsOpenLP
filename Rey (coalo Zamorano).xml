@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-15T13:58:13">
+  <properties>
+    <titles>
+      <title>Rey</title>
+    </titles>
+    <authors>
+      <author>coalo Zamorano</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vengo a ti<br/>Con mis cargas vengo<br/>Vengo a ti<br/>Eres mi sustento, Dios<br/>Torre fuerte, eres mi vida<br/>Tu Eres mi fiel compañia (BIS)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Rey sobre toda Tempestad.<br/>Rey sobre todo enfermedad.<br/>Tu eres rey sobre todas circunstancias<br/>sobre todas mis batallas<br/>Eres Rey, Tu eres Rey</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Vengo a ti<br/>Con mis cargas vengo<br/>Vengo a ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eres mi sustento, Dios<br/>Torre fuerte, eres mi vida<br/>Tu Eres mi fiel compañia</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Eres Rey,<br/>Sobre toda circunstancia<br/>Tu eres Rey<br/>Eres Rey,</lines>
+    </verse>
+    <verse name="b2">
+      <lines>¿A quien tengo yo en el cielo?<br/>solo a ti, mi rey eterno. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rey sobre toda Tempestad.<br/>Rey sobre todo enfermedad.<br/>Y Eres rey sobre todas circunstancias<br/>sobre todas mis batallas<br/>Eres Rey, Tu Eres Rey</lines>
+    </verse>
+  </lyrics>
+</song>

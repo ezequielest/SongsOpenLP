@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-08-20T14:52:34">
+  <properties>
+    <titles>
+      <title>Algo grande viene</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ven Espíritu, y llena este lugar,<br/>abre nuestros ojos<br/>para ver como Dios ve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ven Espíritu, recuérdanos una vez más,<br/>que en valle de sombra Cristo es la roca,<br/>y en Él y en Él nada me faltará…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Estoy confiando en tí, estoy confiando en tí Señor,<br/>que ya no importa lo que digan,<br/>yo estoy a un paso de tu gloria, Señor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Algo grande viene, algo grande viene,<br/>lo puedo sentir muy dentro de mí,<br/>viene, viene sobre mí //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Enséñanos Señor, a escuchar tu voz<br/>cuando nos dices,<br/>que tú tienes todo en control,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te damos gloria y honor, venimos a tu altar,<br/>por lo que hiciste, por lo que haces,<br/>y todo, todo lo que aún harás,<br/>Estoy confiando,<br/>que ya no importa lo pasado,<br/>porque algo grande viene </lines>
+    </verse>
+  </lyrics>
+</song>

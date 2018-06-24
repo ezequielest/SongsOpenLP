@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:18">
+  <properties>
+    <titles>
+      <title>Con mis manos levantadas</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>CON MIS MANOS LEVANTADAS HACIA EL CIELO<br/>ME PRESENTO ANTE TI HOY MI SEÑOR<br/>PARA RECIBIR DE TI LA FUERZA Y EL PODER <br/>PARA VIVIR JUNTO A TI</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>LLENAS HOY MI CORAZON CON TU PRESENCIA <br/>LLENAS DE ALEGRIA Y PAZ TODO MI SER <br/>EN CUALQUIER NECESIDAD TU ME RESPONDERAS<br/>POR QUE ME AMAS <br/>ME AMAS</lines>
+    </verse>
+  </lyrics>
+</song>

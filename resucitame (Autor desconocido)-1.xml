@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-21T20:21:49">
+  <properties>
+    <titles>
+      <title>resucitame</title>
+    </titles>
+    <authors>
+      <author>Autor desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maestro necesito un milagro <br/>transforma hoy mi vida mi estado <br/>hace tiempo que no veo la luz del día <br/>están tratando de enterrar mi alegría <br/>intentan ver mis sueños cancelados</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lázaro escucho tu voz <br/>cuando aquella piedra se movió <br/>después de cuatro días el revivió</lines>
+    </verse>
+    <verse name="v3">
+      <lines>maestro no hay otro que pueda hacer <br/>aquello que solo tu nombre tiene el poder <br/>necesito tanto de un milagro</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Remueve hoy mi piedra <br/>y llama por mi nombre <br/>muda mi historia <br/>resucita mis sueños <br/>transforma hoy mi vida <br/>haz un milagro <br/>en esta misma hora <br/>me llamas hacia afuera <br/>resucítame</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tú eres la misma vida <br/>la fuerza que hay en mí <br/>eres el hijo de Dios <br/>tú me llevas a vencer <br/>Señor de todo en mí <br/>escucho ya tu voz <br/>llamándome a vivir <br/>una historia de poder</lines>
+    </verse>
+  </lyrics>
+</song>
